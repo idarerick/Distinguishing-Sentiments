@@ -1,0 +1,588 @@
+User,Tweet Count,Tweet,Timestamp,Compound Score,Positive Score,Neutral Score,Negative Score
+BBCWorld,1,India activist arrests: Is this a political witch hunt? https://t.co/5yTs1lZObm,Wed Aug 29 05:58:34 +0000 2018,-0.6597,0.0,0.0,0.0
+BBCWorld,2,Myanmar rejects UN accusation of 'genocide' against Rohingya https://t.co/iJAiBJwKQj,Wed Aug 29 04:50:33 +0000 2018,-0.6369,0.0,0.0,0.0
+BBCWorld,3,Venezuela crisis: Brazil to send army to safeguard border https://t.co/SsjDbA6CWZ,Wed Aug 29 04:28:13 +0000 2018,-0.3612,0.177,0.177,0.177
+BBCWorld,4,Hong Kong woman marries stranger after being 'tricked' by work https://t.co/c7izeq4B3H,Wed Aug 29 02:52:40 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,5,Chemnitz protests: Far-right on march in east Germany https://t.co/pxoNnD0jo1,Tue Aug 28 23:32:51 +0000 2018,-0.2263,0.0,0.0,0.0
+BBCWorld,6,"Puerto Rico increases Hurricane Maria death toll to 2,975 https://t.co/mwKJ0Jg1hP",Tue Aug 28 22:24:35 +0000 2018,-0.5994,0.0,0.0,0.0
+BBCWorld,7,Didi blames 'ignorance and pride' for carpool murder https://t.co/3WXOvFQz7E,Tue Aug 28 21:35:18 +0000 2018,-0.8176,0.139,0.139,0.139
+BBCWorld,8,Canada police arrest teen suspected in German tourist shooting https://t.co/cmalU450UG,Tue Aug 28 21:12:44 +0000 2018,-0.5106,0.0,0.0,0.0
+BBCWorld,9,Scallop war: French and British boats clash in Channel https://t.co/rSmYf8wafE,Tue Aug 28 21:09:54 +0000 2018,-0.5994,0.0,0.0,0.0
+BBCWorld,10,Morocco: Arrests made in Khadija rape and torture case https://t.co/Kq3RaEGeRk,Tue Aug 28 21:00:58 +0000 2018,-0.91,0.0,0.0,0.0
+BBCWorld,11,Nafta: Clock is ticking for Canada in US trade negotiations https://t.co/hIeWqEAOPY,Tue Aug 28 20:20:41 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,12,Protests as police woman who shot man teaches class on shootings https://t.co/WIAl9SXvUK,Tue Aug 28 20:09:31 +0000 2018,-0.2263,0.0,0.0,0.0
+BBCWorld,13,"Russia's massive military drills justified given ""aggressive and unfriendly"" attitudes towards country
+
+https://t.co/70qVOoHVuD",Tue Aug 28 18:12:55 +0000 2018,-0.1027,0.161,0.161,0.161
+BBCWorld,14,"Comedians hit out at Louis CK's stand-up return
+
+https://t.co/qZRQIarZfW",Tue Aug 28 17:43:44 +0000 2018,0.296,0.216,0.216,0.216
+BBCWorld,15,"🥊🥊
+
+KSI vs Logan Paul: Boxing match shows ""how far YouTubers have come"" 
+
+https://t.co/gTl8AWARFu #KSIvsLogan",Tue Aug 28 17:01:36 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,16,"Five US cops who were recorded pummelling an unarmed man will not face any charges, authorities have announced https://t.co/jQqK9XukPM",Tue Aug 28 16:54:35 +0000 2018,0.2057,0.092,0.092,0.092
+BBCWorld,17,"A former Vatican diplomat who accused the Pope of covering up reports of clerical sex abuse has fled Italy ""in fear… https://t.co/OHXxznVB0N",Tue Aug 28 16:32:35 +0000 2018,-0.7506,0.0,0.0,0.0
+BBCWorld,18,"RT @BBCSport: Kevin Strootman has joined Marseille from Roma in a €25m (£22.7m) deal.
+
+👉 https://t.co/qi5uD4AGJi https://t.co/NlA6dGfRxe",Tue Aug 28 16:19:22 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,19,"After a minister quit on live radio, who's left in Emmanuel Macron's top team? https://t.co/ZQurvrPznX",Tue Aug 28 15:52:09 +0000 2018,0.2023,0.122,0.122,0.122
+BBCWorld,20,"RT @BBCSport: ⚡
+
+Usain Bolt is finally set to make his football debut.
+
+👉 https://t.co/dHxehPSNLm https://t.co/1inxfHMXyR",Tue Aug 28 15:24:50 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,21,India activist arrests: Is this a political witch hunt? https://t.co/5yTs1lZObm,Wed Aug 29 05:58:34 +0000 2018,-0.6597,0.0,0.0,0.0
+BBCWorld,22,Myanmar rejects UN accusation of 'genocide' against Rohingya https://t.co/iJAiBJwKQj,Wed Aug 29 04:50:33 +0000 2018,-0.6369,0.0,0.0,0.0
+BBCWorld,23,Venezuela crisis: Brazil to send army to safeguard border https://t.co/SsjDbA6CWZ,Wed Aug 29 04:28:13 +0000 2018,-0.3612,0.177,0.177,0.177
+BBCWorld,24,Hong Kong woman marries stranger after being 'tricked' by work https://t.co/c7izeq4B3H,Wed Aug 29 02:52:40 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,25,Chemnitz protests: Far-right on march in east Germany https://t.co/pxoNnD0jo1,Tue Aug 28 23:32:51 +0000 2018,-0.2263,0.0,0.0,0.0
+BBCWorld,26,"Puerto Rico increases Hurricane Maria death toll to 2,975 https://t.co/mwKJ0Jg1hP",Tue Aug 28 22:24:35 +0000 2018,-0.5994,0.0,0.0,0.0
+BBCWorld,27,Didi blames 'ignorance and pride' for carpool murder https://t.co/3WXOvFQz7E,Tue Aug 28 21:35:18 +0000 2018,-0.8176,0.139,0.139,0.139
+BBCWorld,28,Canada police arrest teen suspected in German tourist shooting https://t.co/cmalU450UG,Tue Aug 28 21:12:44 +0000 2018,-0.5106,0.0,0.0,0.0
+BBCWorld,29,Scallop war: French and British boats clash in Channel https://t.co/rSmYf8wafE,Tue Aug 28 21:09:54 +0000 2018,-0.5994,0.0,0.0,0.0
+BBCWorld,30,Morocco: Arrests made in Khadija rape and torture case https://t.co/Kq3RaEGeRk,Tue Aug 28 21:00:58 +0000 2018,-0.91,0.0,0.0,0.0
+BBCWorld,31,Nafta: Clock is ticking for Canada in US trade negotiations https://t.co/hIeWqEAOPY,Tue Aug 28 20:20:41 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,32,Protests as police woman who shot man teaches class on shootings https://t.co/WIAl9SXvUK,Tue Aug 28 20:09:31 +0000 2018,-0.2263,0.0,0.0,0.0
+BBCWorld,33,"Russia's massive military drills justified given ""aggressive and unfriendly"" attitudes towards country
+
+https://t.co/70qVOoHVuD",Tue Aug 28 18:12:55 +0000 2018,-0.1027,0.161,0.161,0.161
+BBCWorld,34,"Comedians hit out at Louis CK's stand-up return
+
+https://t.co/qZRQIarZfW",Tue Aug 28 17:43:44 +0000 2018,0.296,0.216,0.216,0.216
+BBCWorld,35,"🥊🥊
+
+KSI vs Logan Paul: Boxing match shows ""how far YouTubers have come"" 
+
+https://t.co/gTl8AWARFu #KSIvsLogan",Tue Aug 28 17:01:36 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,36,"Five US cops who were recorded pummelling an unarmed man will not face any charges, authorities have announced https://t.co/jQqK9XukPM",Tue Aug 28 16:54:35 +0000 2018,0.2057,0.092,0.092,0.092
+BBCWorld,37,"A former Vatican diplomat who accused the Pope of covering up reports of clerical sex abuse has fled Italy ""in fear… https://t.co/OHXxznVB0N",Tue Aug 28 16:32:35 +0000 2018,-0.7506,0.0,0.0,0.0
+BBCWorld,38,"RT @BBCSport: Kevin Strootman has joined Marseille from Roma in a €25m (£22.7m) deal.
+
+👉 https://t.co/qi5uD4AGJi https://t.co/NlA6dGfRxe",Tue Aug 28 16:19:22 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,39,"After a minister quit on live radio, who's left in Emmanuel Macron's top team? https://t.co/ZQurvrPznX",Tue Aug 28 15:52:09 +0000 2018,0.2023,0.122,0.122,0.122
+BBCWorld,40,"RT @BBCSport: ⚡
+
+Usain Bolt is finally set to make his football debut.
+
+👉 https://t.co/dHxehPSNLm https://t.co/1inxfHMXyR",Tue Aug 28 15:24:50 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,41,RT @BBCNorthAmerica: Mollie Tibbetts' death is the latest tragedy to highlight the issues female joggers face in the US. Have you experienc…,Tue Aug 28 15:24:17 +0000 2018,-0.7845,0.081,0.081,0.081
+BBCWorld,42,"When Warren Buffet isn't Warren Buffett
+
+https://t.co/7sHs6bSBLq",Tue Aug 28 14:46:42 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,43,"RT @VictoriaLIVE: ""They're living in absolute squalor.""
+
+MSF worker, Myriam Abdel-Basit, on the Greek refugee camp where children as young…",Tue Aug 28 14:14:10 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,44,"Florida video game gunman had history of mental illness, court records reveal
+
+https://t.co/uSkDm7qZja",Tue Aug 28 13:55:58 +0000 2018,-0.4019,0.0,0.0,0.0
+BBCWorld,45,"RT @BBC_HaveYourSay: Louis CK has performed stand-up comedy for the first time since admitting to several instances of sexual misconduct
+
+h…",Tue Aug 28 13:45:49 +0000 2018,0.3612,0.111,0.111,0.111
+BBCWorld,46,"""I thought she wasn't even alive"" 
+
+Father's joy at voice of abducted daughter
+
+https://t.co/hVWiPggaFk",Tue Aug 28 13:32:46 +0000 2018,-0.1739,0.187,0.187,0.187
+BBCWorld,47,"Russia plans to hold its biggest war games since the Cold War next month, with 300,000 military personnel involved https://t.co/99yntoIdDP",Tue Aug 28 12:11:27 +0000 2018,-0.8316,0.0,0.0,0.0
+BBCWorld,48,"#ArethaFranklin fans gather to say goodbye to their idol 
+
+https://t.co/i1x8UbzEkV
+
+Thread 👇🎤 https://t.co/zoofdGA8Op",Tue Aug 28 11:45:27 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,49,"Avicii's family turn his official website into digital memory board 
+
+https://t.co/Hv1zrzsBMP",Tue Aug 28 11:25:04 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,50,"RT @BBCNews: Theresa May dances with school children during her South Africa visit
+
+https://t.co/hW8S23GsNd https://t.co/nQNXquroKH",Tue Aug 28 10:34:47 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,51,"Man held after Paris attack on woman he'd allegedly harassed  
+
+https://t.co/24ytKaPt4C",Tue Aug 28 10:34:04 +0000 2018,-0.765,0.0,0.0,0.0
+BBCWorld,52,"French minister Nicolas Hulot surprises President Emmanuel Macron with resignation on live radio
+
+https://t.co/hUa2AtuA77",Tue Aug 28 10:13:56 +0000 2018,-0.0772,0.118,0.118,0.118
+BBCWorld,53,"RT @bbcworldservice: Tomisin Ogunnubi was just 12 when she created an app which helps lost children in Nigeria. 
+More here: https://t.co/vW…",Tue Aug 28 09:51:44 +0000 2018,0.3182,0.185,0.185,0.185
+BBCWorld,54,"RT @BBCSport: Johanna Konta, Roger Federer and Novak Djokovic all begin their US Open campaigns today.
+
+The Swiss great is looking to break…",Tue Aug 28 07:58:18 +0000 2018,0.6249,0.157,0.157,0.157
+BBCWorld,55,RT @BBCSteveR: One Russian newspaper today claims Moscow is assembling an “unprecedented” naval force in the Mediterranean: “10 ships (&amp; mo…,Tue Aug 28 07:58:11 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,56,Myanmar Rohingya: Why Facebook banned an army chief https://t.co/kOjvjFR1gW,Tue Aug 28 06:41:05 +0000 2018,-0.4588,0.0,0.0,0.0
+BBCWorld,57,Malcolm Turnbull: Australian ex-PM 'to quit parliament' https://t.co/cMY1GALOmH,Tue Aug 28 02:57:34 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,58,Left behind: How Venezuela crisis is tearing families apart https://t.co/WAYjqIeRtk,Mon Aug 27 23:46:40 +0000 2018,-0.6249,0.0,0.0,0.0
+BBCWorld,59,May's mission to woo Africa after Brexit https://t.co/X05V7mWFGT,Mon Aug 27 23:41:13 +0000 2018,0.4767,0.307,0.307,0.307
+BBCWorld,60,Children 'ready to flee’ violence at Greek refugee camp https://t.co/x6Z07im3Yi,Mon Aug 27 23:38:15 +0000 2018,-0.3818,0.171,0.171,0.171
+BBCWorld,61,Student loan watchdog: US 'turned its back' on students https://t.co/C80uyX33XJ,Mon Aug 27 21:45:35 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,62,Vanesa Campos: Five charged with murdering Paris transgender prostitute https://t.co/p2MxeaEgZI,Mon Aug 27 21:42:29 +0000 2018,-0.7269,0.0,0.0,0.0
+BBCWorld,63,Germany migrants: Protesters face off in Chemnitz https://t.co/1mxXiC1LT4,Mon Aug 27 19:05:06 +0000 2018,-0.2263,0.0,0.0,0.0
+BBCWorld,64,John McCain: The angry politics of late senator's death https://t.co/6Pxcc8ioDK,Mon Aug 27 18:38:51 +0000 2018,-0.802,0.0,0.0,0.0
+BBCWorld,65,Pope Francis' Skoda donated to homeless charity https://t.co/w8i9Wovd8U,Mon Aug 27 18:02:25 +0000 2018,0.4215,0.286,0.286,0.286
+BBCWorld,66,"US boy, 9, killed himself after homophobic bullying, mum says https://t.co/XA45wmoFPb",Mon Aug 27 17:26:13 +0000 2018,-0.8555,0.0,0.0,0.0
+BBCWorld,67,Myanmar Rohingya: What will happen next after damning UN report? https://t.co/6vPlFNWw5b,Mon Aug 27 16:51:45 +0000 2018,-0.34,0.0,0.0,0.0
+BBCWorld,68,Tuam babies: Church must address 'shameful chapter' https://t.co/J9kKJfIyoO,Mon Aug 27 16:48:51 +0000 2018,-0.4939,0.0,0.0,0.0
+BBCWorld,69,"RT @bbctennis: Kaia Kanepi has done it! 
+
+A shock result as world number 1 Simona Halep crashes out at the first hurdle 6-2 6-4. 
+
+Live: ht…",Mon Aug 27 16:32:04 +0000 2018,-0.3802,0.05,0.05,0.05
+BBCWorld,70,Saad Lamjarred: Moroccan singer faces third rape charge https://t.co/tibNiF1jvD,Mon Aug 27 16:19:07 +0000 2018,-0.6908,0.0,0.0,0.0
+BBCWorld,71,"Just when you thought it was safe to go back in the water... 🐬
+
+https://t.co/nBkeOkDi2a",Mon Aug 27 16:07:47 +0000 2018,0.4404,0.182,0.182,0.182
+BBCWorld,72,Jos Brech was identified as a suspect after the Netherlands' biggest ever DNA harvesting operation https://t.co/sR3zf8cPh0,Mon Aug 27 15:58:09 +0000 2018,-0.296,0.0,0.0,0.0
+BBCWorld,73,John McCain: White House urged to lower flags for senator https://t.co/xzsNZO6awn,Mon Aug 27 15:50:03 +0000 2018,-0.296,0.0,0.0,0.0
+BBCWorld,74,RT @BBCBusiness: US-Mexico reach NAFTA breakthrough https://t.co/4pMLFXJHNh,Mon Aug 27 15:42:18 +0000 2018,0.0258,0.155,0.155,0.155
+BBCWorld,75,"RT @BBCSteveR: Russian opposition politician Alexei Navalny has been sentenced to 30 days behind bars: on paper, it’s for a street protest…",Mon Aug 27 14:23:54 +0000 2018,-0.0258,0.0,0.0,0.0
+BBCWorld,76,Florida shooting: Gaming community reacts https://t.co/pY4vjZnZBe,Mon Aug 27 13:15:21 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,77,Uganda's Bobi Wine crisis: Court frees pop star MP https://t.co/rQnCMYa2GF,Mon Aug 27 13:07:11 +0000 2018,-0.4404,0.154,0.154,0.154
+BBCWorld,78,Back to the (really) old school https://t.co/ZXjvclk1hX,Mon Aug 27 12:35:37 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,79,Why are some Iranians running out of hope? https://t.co/NsxYI5IKhe https://t.co/rCFXfS9u6J,Mon Aug 27 12:15:51 +0000 2018,0.4404,0.244,0.244,0.244
+BBCWorld,80,"Chale Wote art festival takes over Ghana's capital, Accra https://t.co/EpNO8pijna",Mon Aug 27 11:52:52 +0000 2018,0.4939,0.262,0.262,0.262
+BBCWorld,81,People in Morocco shocked over brutal rape allegations https://t.co/aem9OoaZzy,Mon Aug 27 11:47:14 +0000 2018,-0.9022,0.0,0.0,0.0
+BBCWorld,82,"More than 50 years on, the Democratic Party's national convention of 1968 continues to haunt the party and cast a s… https://t.co/NVAVoNFbnF",Mon Aug 27 11:45:31 +0000 2018,0.0,0.111,0.111,0.111
+BBCWorld,83,Brest frisky dolphin sparks French swimming ban https://t.co/G3pQeVsqeI,Mon Aug 27 11:20:24 +0000 2018,-0.3818,0.172,0.172,0.172
+BBCWorld,84,Iran urges UN court to halt US reimposed nuclear sanctions https://t.co/G3Pn1JL4b7,Mon Aug 27 11:12:12 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,85,Muslim men have been swapping clothes with non-Muslim men as part of a project to fight stereotypes… https://t.co/3Pr4EnSHJ7,Mon Aug 27 10:46:01 +0000 2018,-0.3818,0.0,0.0,0.0
+BBCWorld,86,"The UN report is also fiercely critical of Myanmar's de facto leader, Aung San Suu Kyi https://t.co/fiUaGph4ED",Mon Aug 27 10:32:27 +0000 2018,-0.3182,0.0,0.0,0.0
+BBCWorld,87,German far-right street mob alarms police in Chemnitz https://t.co/750Z7Nppsd,Mon Aug 27 10:28:37 +0000 2018,-0.2732,0.0,0.0,0.0
+BBCWorld,88,Florida shooting: Video gamers killed by rival at tournament https://t.co/SWoWDfalhR,Mon Aug 27 10:03:52 +0000 2018,-0.6705,0.0,0.0,0.0
+BBCWorld,89,Thieves replace Paraguay police rifles with toy replicas https://t.co/Xcvahi2DIt,Mon Aug 27 09:50:20 +0000 2018,-0.5106,0.0,0.0,0.0
+BBCWorld,90,"RT @BBCSport: ""A deafening silence of 43 minutes, one for each child, worker, student, father or mother who are no longer with us today"".…",Mon Aug 27 09:24:10 +0000 2018,-0.5267,0.0,0.0,0.0
+BBCWorld,91,Pope 'moved and shocked' by meetings with abuse victims https://t.co/8qhy7aOnbY,Mon Aug 27 09:20:59 +0000 2018,-0.8316,0.0,0.0,0.0
+BBCWorld,92,Witnesses describe the moment a gunman opened fire at a video game tournament in Florida https://t.co/6QO8xL4rxG https://t.co/641SiGPsgI,Mon Aug 27 09:16:34 +0000 2018,-0.34,0.0,0.0,0.0
+BBCWorld,93,🚲🚲🚲 https://t.co/vuFW9P7pcS,Mon Aug 27 08:57:39 +0000 2018,0.0,0.0,0.0,0.0
+BBCWorld,94,Australia: Crocodile swamp search a 'people smuggling' case https://t.co/SbCGKio3C4,Mon Aug 27 07:57:46 +0000 2018,-0.4767,0.0,0.0,0.0
+BBCWorld,95,"RT @bbcworldservice: ""I hope he doesn't come in here because, if he does, then I'm going to die"" 
+A survivor of the shooting in Jacksonvill…",Mon Aug 27 07:46:48 +0000 2018,0.128,0.178,0.178,0.178
+BBCWorld,96,"Myanmar military leaders must face genocide charges, says UN https://t.co/U28aXtAFO9",Mon Aug 27 07:36:42 +0000 2018,-0.2732,0.0,0.0,0.0
+BBCWorld,97,UK wife killer to be repatriated to India https://t.co/XYOgGNrAfv,Mon Aug 27 07:28:37 +0000 2018,-0.6486,0.0,0.0,0.0
+BBCWorld,98,North Korea grants humanitarian release to Japanese tourist https://t.co/PNkDSuhbAg,Mon Aug 27 02:39:28 +0000 2018,0.2263,0.192,0.192,0.192
+BBCWorld,99,Pope keeps silent on abuse claim letter at end of Irish visit https://t.co/Ni1gxFxWZR,Mon Aug 27 02:24:00 +0000 2018,-0.6369,0.0,0.0,0.0
+BBCWorld,100,Myanmar Reuters journalists Wa Lone and Kyaw Soe Oo await verdict https://t.co/rccFV47cQz,Mon Aug 27 01:27:15 +0000 2018,-0.0258,0.213,0.213,0.213
+CBSNews,1,"Former prisoner of war remembers McCain: ""John never forgot the other POWs"" https://t.co/U3yk52ofH7 https://t.co/VVS5NChVYL",Wed Aug 29 06:18:03 +0000 2018,-0.8126,0.0,0.0,0.0
+CBSNews,2,Almost half of Americans can't pay for their basic needs https://t.co/bEFNVuDhJ0 https://t.co/rYcdL5dOkG,Wed Aug 29 06:03:03 +0000 2018,0.0762,0.105,0.105,0.105
+CBSNews,3,"Florida's first African-American nominee for governor Andrew Gillum wins Tuesday's primary in a shocking upset, tel… https://t.co/AK9FmlveXd",Wed Aug 29 05:44:35 +0000 2018,-0.1531,0.168,0.168,0.168
+CBSNews,4,4.4 magnitude earthquake shakes Southern California near Los Angeles https://t.co/lundXCJuO9 https://t.co/T2QkTUhJC0,Wed Aug 29 05:20:02 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,5,"Arizona Governor Doug Ducey will wait to name Sen. McCain’s replacement until he is laid to rest, but @NickRiccardi… https://t.co/yhJFiVgIVV",Wed Aug 29 04:58:38 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,6,Projected winner of the Arizona GOP Senate primary Rep. Martha McSally spoke to her supporters of her legislation t… https://t.co/GLgDHHDLBC,Wed Aug 29 04:38:44 +0000 2018,0.7717,0.271,0.271,0.271
+CBSNews,7,"Martha McSally holds a moment of silence for late Arizona Senator John McCain, as she claims victory in the state’s… https://t.co/BOQLT9P6eN",Wed Aug 29 04:01:56 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,8,"Congresswoman Martha McSally, the favorite of the National Republican establishment, claims victory in the Arizona… https://t.co/xLJCQnA37r",Wed Aug 29 03:49:17 +0000 2018,0.4588,0.167,0.167,0.167
+CBSNews,9,Arizona Governor Doug Ducey is the projected winner of the state's GOP gubernatorial primary.… https://t.co/uzE5oCjowR,Wed Aug 29 03:43:28 +0000 2018,0.5859,0.213,0.213,0.213
+CBSNews,10,.@SalvantoCBS breaks down tonight’s Florida primary results and predicts possible turnouts for the election in Nove… https://t.co/wnNXjpBdmt,Wed Aug 29 03:22:34 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,11,Remains found in a fish tank at the home of a missing man in San Francisco https://t.co/cCVpTpiLra https://t.co/2kxbMYv0Kn,Wed Aug 29 03:11:35 +0000 2018,-0.296,0.0,0.0,0.0
+CBSNews,12,"In Florida's race for governor, @DrMacManus says Tallahassee mayor Andrew Gillum and Rep. Ron DeSantis need to targ… https://t.co/GSlUqQOgii",Wed Aug 29 02:46:37 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,13,Russia to hold its biggest war games since the Cold War https://t.co/WTGOvFvrrj https://t.co/l6WFfZsf4H,Wed Aug 29 02:28:34 +0000 2018,-0.8316,0.0,0.0,0.0
+CBSNews,14,"Comedian Eddie Murphy is expecting baby number 10, his second with model girlfriend Paige Butcher… https://t.co/Jk6sXdpAj7",Wed Aug 29 02:11:54 +0000 2018,0.4404,0.218,0.218,0.218
+CBSNews,15,These are the deadliest hurricanes in U.S. history https://t.co/Yemh1X7Mf3 https://t.co/9jkfvofTPA,Wed Aug 29 01:49:45 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,16,"RT @edokeefe: In terms of sheer size and scope and feathers in the cap, this Andrew Gillum race is a far bigger prize for the Sanders wing/…",Wed Aug 29 01:43:57 +0000 2018,0.5106,0.117,0.117,0.117
+CBSNews,17,"""This race is about every single last one of us, right? Those of us in this room...those who could not vote for me… https://t.co/LMw7xMUmSe",Wed Aug 29 01:42:28 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,18,Tallahassee mayor Andrew Gillum projected to be winner of the Florida Democratic gubernatorial primary.… https://t.co/R0s8n2CSua,Wed Aug 29 01:37:53 +0000 2018,0.5859,0.213,0.213,0.213
+CBSNews,19,"Pfizer is recalling some children's Advil because instructions on its label don't match the measuring cup, raising… https://t.co/WfuTwTh9Sf",Wed Aug 29 01:29:50 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,20,"""You are seeing that this is the complete takeover of the Republican party in Florida of the Donald Trump era,""… https://t.co/yNTcT1HuIJ",Wed Aug 29 01:12:20 +0000 2018,0.4019,0.119,0.119,0.119
+CBSNews,21,"Former prisoner of war remembers McCain: ""John never forgot the other POWs"" https://t.co/U3yk52ofH7 https://t.co/VVS5NChVYL",Wed Aug 29 06:18:03 +0000 2018,-0.8126,0.0,0.0,0.0
+CBSNews,22,Almost half of Americans can't pay for their basic needs https://t.co/bEFNVuDhJ0 https://t.co/rYcdL5dOkG,Wed Aug 29 06:03:03 +0000 2018,0.0762,0.105,0.105,0.105
+CBSNews,23,"Florida's first African-American nominee for governor Andrew Gillum wins Tuesday's primary in a shocking upset, tel… https://t.co/AK9FmlveXd",Wed Aug 29 05:44:35 +0000 2018,-0.1531,0.168,0.168,0.168
+CBSNews,24,4.4 magnitude earthquake shakes Southern California near Los Angeles https://t.co/lundXCJuO9 https://t.co/T2QkTUhJC0,Wed Aug 29 05:20:02 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,25,"Arizona Governor Doug Ducey will wait to name Sen. McCain’s replacement until he is laid to rest, but @NickRiccardi… https://t.co/yhJFiVgIVV",Wed Aug 29 04:58:38 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,26,Projected winner of the Arizona GOP Senate primary Rep. Martha McSally spoke to her supporters of her legislation t… https://t.co/GLgDHHDLBC,Wed Aug 29 04:38:44 +0000 2018,0.7717,0.271,0.271,0.271
+CBSNews,27,"Martha McSally holds a moment of silence for late Arizona Senator John McCain, as she claims victory in the state’s… https://t.co/BOQLT9P6eN",Wed Aug 29 04:01:56 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,28,"Congresswoman Martha McSally, the favorite of the National Republican establishment, claims victory in the Arizona… https://t.co/xLJCQnA37r",Wed Aug 29 03:49:17 +0000 2018,0.4588,0.167,0.167,0.167
+CBSNews,29,Arizona Governor Doug Ducey is the projected winner of the state's GOP gubernatorial primary.… https://t.co/uzE5oCjowR,Wed Aug 29 03:43:28 +0000 2018,0.5859,0.213,0.213,0.213
+CBSNews,30,.@SalvantoCBS breaks down tonight’s Florida primary results and predicts possible turnouts for the election in Nove… https://t.co/wnNXjpBdmt,Wed Aug 29 03:22:34 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,31,Remains found in a fish tank at the home of a missing man in San Francisco https://t.co/cCVpTpiLra https://t.co/2kxbMYv0Kn,Wed Aug 29 03:11:35 +0000 2018,-0.296,0.0,0.0,0.0
+CBSNews,32,"In Florida's race for governor, @DrMacManus says Tallahassee mayor Andrew Gillum and Rep. Ron DeSantis need to targ… https://t.co/GSlUqQOgii",Wed Aug 29 02:46:37 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,33,Russia to hold its biggest war games since the Cold War https://t.co/WTGOvFvrrj https://t.co/l6WFfZsf4H,Wed Aug 29 02:28:34 +0000 2018,-0.8316,0.0,0.0,0.0
+CBSNews,34,"Comedian Eddie Murphy is expecting baby number 10, his second with model girlfriend Paige Butcher… https://t.co/Jk6sXdpAj7",Wed Aug 29 02:11:54 +0000 2018,0.4404,0.218,0.218,0.218
+CBSNews,35,These are the deadliest hurricanes in U.S. history https://t.co/Yemh1X7Mf3 https://t.co/9jkfvofTPA,Wed Aug 29 01:49:45 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,36,"RT @edokeefe: In terms of sheer size and scope and feathers in the cap, this Andrew Gillum race is a far bigger prize for the Sanders wing/…",Wed Aug 29 01:43:57 +0000 2018,0.5106,0.117,0.117,0.117
+CBSNews,37,"""This race is about every single last one of us, right? Those of us in this room...those who could not vote for me… https://t.co/LMw7xMUmSe",Wed Aug 29 01:42:28 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,38,Tallahassee mayor Andrew Gillum projected to be winner of the Florida Democratic gubernatorial primary.… https://t.co/R0s8n2CSua,Wed Aug 29 01:37:53 +0000 2018,0.5859,0.213,0.213,0.213
+CBSNews,39,"Pfizer is recalling some children's Advil because instructions on its label don't match the measuring cup, raising… https://t.co/WfuTwTh9Sf",Wed Aug 29 01:29:50 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,40,"""You are seeing that this is the complete takeover of the Republican party in Florida of the Donald Trump era,""… https://t.co/yNTcT1HuIJ",Wed Aug 29 01:12:20 +0000 2018,0.4019,0.119,0.119,0.119
+CBSNews,41,"A 118-year-old Bolivian woman may be the world's oldest person, if she cares to claim her title… https://t.co/8tcHoUJtDI",Wed Aug 29 01:09:48 +0000 2018,0.4588,0.158,0.158,0.158
+CBSNews,42,"Rep. DeSantis gives victory speech after winning Florida GOP gubernatorial primary: ""I believe there is no limit to… https://t.co/t6qJtQ1zpl",Wed Aug 29 01:08:20 +0000 2018,0.296,0.15,0.15,0.15
+CBSNews,43,Polls are closed in Oklahoma and Florida as voting continues in Arizona. Follow our live blog for updates https://t.co/0gSV3AmCF7,Wed Aug 29 00:59:44 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,44,"Papa John's exiled founder John Schnatter blames new CEO for ""rot at the top"" https://t.co/0zkmocNIjj https://t.co/Y9Br5QzBlA",Wed Aug 29 00:49:30 +0000 2018,-0.2263,0.097,0.097,0.097
+CBSNews,45,Confidence among American consumers rose in August to the highest level in nearly 18 years https://t.co/1iksUzhXq6 https://t.co/Q9K1NuAbM4,Wed Aug 29 00:29:41 +0000 2018,0.5106,0.171,0.171,0.171
+CBSNews,46,Trump-endorsed GOP Rep. Ron DeSantis projected to win primary in race for governor. DeSantis was considered a front… https://t.co/IhnrKu5Q03,Wed Aug 29 00:26:37 +0000 2018,0.5859,0.183,0.183,0.183
+CBSNews,47,"""In order for Democrats to get their 20 plus seats to take the majority [in the House] back, that row is going to g… https://t.co/Q64xseFYuq",Wed Aug 29 00:20:29 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,48,"Florida Gov. Rick Scott projected as winner of GOP primary in Senate race, AP reports. He will face off against inc… https://t.co/Z7O5MkrRFj",Wed Aug 29 00:13:45 +0000 2018,0.5859,0.153,0.153,0.153
+CBSNews,49,"California lawmakers are in the middle of a historic vote to move the state completely off fossil fuels, with 72 pe… https://t.co/u5CR48a9mE",Wed Aug 29 00:11:49 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,50,"Missouri is the first U.S. state to ban the word ""meat"" on anything but animal flesh, such as in vegan and other pl… https://t.co/zrRu2GPEHm",Tue Aug 28 23:48:26 +0000 2018,-0.3182,0.0,0.0,0.0
+CBSNews,51,Hurricane Maria now stands as one of the deadliest natural disasters in U.S. history after a new report said its de… https://t.co/RXMchoIDFD,Tue Aug 28 23:20:51 +0000 2018,-0.2732,0.1,0.1,0.1
+CBSNews,52,WATCH NOW: The governor of Puerto Rico @ricardorossello is speaking to CBS News' @DavidBegnaud about a new report r… https://t.co/PsEYA1cY2o,Tue Aug 28 23:09:47 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,53,RT @DavidBegnaud: We are live now with the Governor of Puerto Rico Ricardo Rossello https://t.co/nQQaBWEs9o,Tue Aug 28 23:07:09 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,54,"RT @CBSEveningNews: Her spunky spirit and dance moves captured the heart of the country - and @Drake. 
+
+And Monday, 11-year-old Sofia Sanch…",Tue Aug 28 23:05:53 +0000 2018,0.1779,0.078,0.078,0.078
+CBSNews,55,Thousands pay their respects to the “Queen of Soul” Aretha Franklin as the star’s public viewing begins in Detroit.… https://t.co/gsxB9lVytT,Tue Aug 28 23:05:09 +0000 2018,0.2263,0.106,0.106,0.106
+CBSNews,56,"RT @DavidBegnaud: Tonight at 7 PM Eastern I will interview the Governor of Puerto Rico, live, following the news today that he has raised t…",Tue Aug 28 23:00:12 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,57,"RT @CBSEveningNews: Inside the infamously brutal “Hanoi Hilton” prison, John McCain shared a cell block with John Fer. 
+
+On Sunday, Fer, a…",Tue Aug 28 22:57:40 +0000 2018,-0.836,0.081,0.081,0.081
+CBSNews,58,“He was successful in spite of his failures”: Sen. Graham delivers  a tearful remembrance of his colleague the late… https://t.co/lxHj52CWoz,Tue Aug 28 22:55:58 +0000 2018,0.1027,0.157,0.157,0.157
+CBSNews,59,"Polls are closing soon in Florida, where Gov. Rick Scott is looking to secure a nomination in his Senate bid. Follo… https://t.co/3fYMUSvXYE",Tue Aug 28 22:54:54 +0000 2018,0.34,0.107,0.107,0.107
+CBSNews,60,"Pennsylvania Atty. General, whose investigation into the Catholic Church revealed over 300 “predator priests” in hi… https://t.co/vBGcTsBTKZ",Tue Aug 28 22:51:05 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,61,Hurricane Maria will go down as one of the deadliest natural disasters in U.S. history after the official toll went… https://t.co/DurSqMVWOA,Tue Aug 28 22:47:24 +0000 2018,-0.2732,0.1,0.1,0.1
+CBSNews,62,"A white police officer in Texas was found guilty of murder in the fatal shooting Jordan Edwards, an unarmed black t… https://t.co/EElBGUEEAD",Tue Aug 28 22:43:20 +0000 2018,-0.9001,0.0,0.0,0.0
+CBSNews,63,"RT @DavidBegnaud: Moment ago, on CBSN, San Juan Puerto Rico Mayor @CarmenYulinCruz blasted the Governor for not firing people involved in i…",Tue Aug 28 22:15:30 +0000 2018,0.2584,0.088,0.088,0.088
+CBSNews,64,"Facing a standstill in diplomatic efforts with the North Korea, Secretary of Defense Jim Mattis says there are no f… https://t.co/w7MDYNfBcB",Tue Aug 28 22:04:45 +0000 2018,-0.1779,0.069,0.069,0.069
+CBSNews,65,"Opening statements in Paul Manafort's second trial to begin September 24, judge says. Manafort faces seven counts t… https://t.co/5ZvLIfaggo",Tue Aug 28 21:49:46 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,66,PSL PSA: The Pumpkin Spice Latte is back -- earlier than ever. https://t.co/bF482EiDzG,Tue Aug 28 21:35:08 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,67,"Mourners paid their final respects to Aretha Franklin at the Wright Museum in Detroit, as part of a two-day public… https://t.co/HDh0ma7uyJ",Tue Aug 28 21:19:35 +0000 2018,-0.128,0.1,0.1,0.1
+CBSNews,68,"Eddie Murphy is expecting his 10th child, his second with girlfriend Paige Butcher https://t.co/XFYacUOmjr https://t.co/x7HVLE7Spw",Tue Aug 28 21:04:30 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,69,"STDS ON THE RISE: Cases of gonorrhea, syphilis and chlamydia all increased in 2017, making it the fourth straight y… https://t.co/ES03RMIDd6",Tue Aug 28 20:50:12 +0000 2018,0.4588,0.174,0.174,0.174
+CBSNews,70,"A white former police officer who fatally shot unarmed black man in 2016 to teach class on ""surviving the aftermath… https://t.co/90lPSxHFbH",Tue Aug 28 20:22:23 +0000 2018,-0.4588,0.09,0.09,0.09
+CBSNews,71,"Longtime Oklahoma City mayor Mick Cornett, Gateway Mortgage Company founder Kevin Stitt face off in governor GOP ru… https://t.co/wsQ3vXGORP",Tue Aug 28 20:04:50 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,72,A white former Texas police officer found guilty of murder for fatally shooting an unarmed black teenager as he lef… https://t.co/1zou8qp8XE,Tue Aug 28 19:49:46 +0000 2018,-0.9136,0.0,0.0,0.0
+CBSNews,73,FOUL ON THE PLAY: President Trump met with the president of FIFA today and was gifted a stack of red cards for when… https://t.co/cCh2aKltQ9,Tue Aug 28 19:30:28 +0000 2018,0.4824,0.125,0.125,0.125
+CBSNews,74,FINAL R-E-S-P-E-C-T: Hundreds of Aretha Franklin fans lined up in Detroit to honor her memory as she lies in a gold… https://t.co/laW7Z3GvUj,Tue Aug 28 19:30:03 +0000 2018,0.1027,0.128,0.128,0.128
+CBSNews,75,"At White House meeting with FIFA boss, President Trump credits New England Patriots owner Bob Kraft for suggesting… https://t.co/v66fpHfmck",Tue Aug 28 19:19:48 +0000 2018,0.3612,0.122,0.122,0.122
+CBSNews,76,WATCH LIVE: President Trump meets with new FIFA president Gianni Infantino after North America was selected for the… https://t.co/rCzlqleVbz,Tue Aug 28 19:17:01 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,77,WATCH NOW: President Trump meets with new FIFA president Gianni Infantino at White House to talk about 2026 World C… https://t.co/svblvBk9cD,Tue Aug 28 19:14:38 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,78,"A federal court said this man couldn't post blueprints online for untraceable 3D-printed guns. Today, he started do… https://t.co/j3SQRuNul4",Tue Aug 28 19:09:31 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,79,"Last year, President Trump implied that Hurricane Maria was not ""a real catastrophe, like Katrina."" Today, new esti… https://t.co/BqwZ7zez2N",Tue Aug 28 18:50:15 +0000 2018,0.7198,0.261,0.261,0.261
+CBSNews,80,"""John taught us how to lose... When you go throughout the world, people remember his concession speech as much as a… https://t.co/HIiUoh296c",Tue Aug 28 18:33:27 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,81,How do you get better at asking for help? Glad you asked. Here's some tips: https://t.co/o8TRWXTBxk https://t.co/9CmATcLwAq,Tue Aug 28 18:29:40 +0000 2018,0.8225,0.381,0.381,0.381
+CBSNews,82,"WATCH NOW: Sen. John McCain's longtime friend, Sen. Lindsey Graham is paying tribute to McCain on the Senate floor… https://t.co/zIFtRJuu2i",Tue Aug 28 18:20:58 +0000 2018,0.4939,0.144,0.144,0.144
+CBSNews,83,"""The incumbent president is very careless with the truth."" Former President Jimmy Carter talks with @CBSThisMorning… https://t.co/MdcF8XJA1l",Tue Aug 28 18:11:28 +0000 2018,-0.4201,0.0,0.0,0.0
+CBSNews,84,"""A major public health problem for humanity."" There are now about 250,000 gun deaths a year worldwide, and the U.S.… https://t.co/igyXvA35tI",Tue Aug 28 17:49:35 +0000 2018,-0.6249,0.0,0.0,0.0
+CBSNews,85,"Even with low unemployment and strong economic growth, nearly half of Americans struggle to pay for housing, utilit… https://t.co/NpW3wtgPue",Tue Aug 28 17:09:55 +0000 2018,-0.2023,0.214,0.214,0.214
+CBSNews,86,"The Hurricane Maria death toll in Puerto Rico is 4,548% higher than what the government initially reported.… https://t.co/JZx1EVxxDf",Tue Aug 28 16:50:52 +0000 2018,-0.5994,0.0,0.0,0.0
+CBSNews,87,A young girl awaiting a life-saving surgery who was surprised by Drake got another surprise this weekend: a new hea… https://t.co/NqcmGFVfx3,Tue Aug 28 16:29:41 +0000 2018,0.4588,0.2,0.2,0.2
+CBSNews,88,Louis C.K. received an ovation from the audience in his first performance since his sexual misconduct scandal… https://t.co/2umWLVBJe6,Tue Aug 28 16:10:01 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,89,MAY-BE DON'T: Theresa May shows off her dance moves during a visit with schoolchildren in South Africa — and it'll… https://t.co/2F5EiOjtnV,Tue Aug 28 15:55:23 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,90,"“We definitely understand that there were a lot of -- we've committed errors in the process,” Carlos Mercader says.… https://t.co/laNq25whI0",Tue Aug 28 15:49:32 +0000 2018,0.34,0.207,0.207,0.207
+CBSNews,91,"The GWU study ""goes deep into some statistics that we will be finalizing and obviously using them to create a new s… https://t.co/e7xRWNtPyy",Tue Aug 28 15:46:48 +0000 2018,0.2732,0.091,0.091,0.091
+CBSNews,92,"""It's 2,975 people who suffered, who went through difficult times. And as government officials, we understand what… https://t.co/6LYFMTPMJK",Tue Aug 28 15:39:49 +0000 2018,-0.6908,0.0,0.0,0.0
+CBSNews,93,"""We always knew that based on the level of the catastrophe that Puerto Rico suffered that there were going to be --… https://t.co/iW7ApVY4xX",Tue Aug 28 15:37:43 +0000 2018,-0.8225,0.0,0.0,0.0
+CBSNews,94,"BREAKING: New study estimates Hurricane Maria caused 2,975 deaths in Puerto Rico -- a drastically higher number tha… https://t.co/W6p7pxFiSe",Tue Aug 28 15:28:16 +0000 2018,0.0772,0.071,0.071,0.071
+CBSNews,95,Pfizer is recalling some children's Advil because instructions on its label don't match the product's measuring cup… https://t.co/6EBey2FarT,Tue Aug 28 14:56:22 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,96,"Sen. Lindsey Graham on replacing Jeff Sessions: ""The relationship is not working"" https://t.co/IUHFNql7AP https://t.co/seDKkqOoQN",Tue Aug 28 14:37:21 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,97,"Hard numbers:
+- Mexican prosecutors opened 2,599 homicide investigations in July
+- Since 2000, annual defense spend… https://t.co/OB2uLsTJ0t",Tue Aug 28 14:20:58 +0000 2018,0.0258,0.089,0.089,0.089
+CBSNews,98,More NAFTA negotiations are underway. President Trump announced a revised trade deal with Mexico in the Oval Office… https://t.co/ToD7w3fgh6,Tue Aug 28 14:18:04 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,99,"""He was my idol, my hero"": John McCain's younger brother, Joe, is remembering the ""maverick"" of the Senate.… https://t.co/Xh5MUQhZqj",Tue Aug 28 14:14:56 +0000 2018,0.0,0.0,0.0,0.0
+CBSNews,100,"Former President Jimmy Carter: President Trump is ""very careless with the truth"" https://t.co/nXmFThqETk https://t.co/dhsidRxRgk",Tue Aug 28 13:59:32 +0000 2018,-0.1263,0.135,0.135,0.135
+CNN,1,"This is how Ruth Bader Ginsburg, the oldest sitting Supreme Court Justice, stays in shape. She attributes her long… https://t.co/NfmfnyovVC",Wed Aug 29 06:16:00 +0000 2018,0.7906,0.28,0.28,0.28
+CNN,2,"Gun-related homicides and suicides kill more people than war, according to a study https://t.co/j4VFWP3QZG https://t.co/T1FZO1ZnZo",Wed Aug 29 06:01:02 +0000 2018,-0.8709,0.0,0.0,0.0
+CNN,3,Researchers used a manned submersible to bring back the first images of a deep-sea coral reef off the coast of Sout… https://t.co/Hf8Juz1pkd,Wed Aug 29 05:46:00 +0000 2018,0.0,0.0,0.0,0.0
+CNN,4,RT @CuomoPrimeTime: Dominican Father Boniface Ramsey recounts his 15-year crusade to expose the alleged abuse by former Cardinal Theodore M…,Wed Aug 29 05:31:12 +0000 2018,-0.7003,0.0,0.0,0.0
+CNN,5,A mother was shoved into the path of an oncoming train. Her daughter jumped onto tracks to save her.… https://t.co/H07T6b9jHY,Wed Aug 29 05:31:08 +0000 2018,0.4939,0.151,0.151,0.151
+CNN,6,"Meet the Arab superhero fighting crime and smashing stereotypes. Emara doesn't wear spandex, skintight leather or m… https://t.co/bJ4eASqKKv",Wed Aug 29 05:16:00 +0000 2018,-0.7184,0.0,0.0,0.0
+CNN,7,Bernie-backed progressive Andrew Gillum will face a Trump-styled Republican in Florida's governor's race… https://t.co/Dgs7rroJ91,Wed Aug 29 05:04:36 +0000 2018,0.0,0.0,0.0,0.0
+CNN,8,"Air pollution could be more damaging to our health than previously thought, according to a new study, which found t… https://t.co/sULU7cHvzR",Wed Aug 29 05:01:05 +0000 2018,-0.5563,0.0,0.0,0.0
+CNN,9,"Bugatti's new Divo supercar costs nearly twice as much as the company's current model, the Chiron, but it can't go… https://t.co/twofLhOOp7",Wed Aug 29 04:46:00 +0000 2018,0.0,0.0,0.0,0.0
+CNN,10,"Nearly 2.3 million cases of chlamydia, gonorrhea and syphilis were diagnosed in the United States in 2017, accordin… https://t.co/XnNgoLpemp",Wed Aug 29 04:31:01 +0000 2018,0.4215,0.135,0.135,0.135
+CNN,11,Establishment favorite Martha McSally will defeat two right-wing challengers in Arizona's Republican Senate primary… https://t.co/x07cwhView,Wed Aug 29 04:18:20 +0000 2018,0.1027,0.227,0.227,0.227
+CNN,12,"Korean pop group BTS beats Taylor Swift's record for biggest YouTube debut with the music video for its song ""Idol""… https://t.co/tKl8Zb3m6l",Wed Aug 29 04:16:00 +0000 2018,0.0,0.0,0.0,0.0
+CNN,13,Sofia Sanchez had two wishes for her 11th birthday. The first came true earlier this month when Drake surprised her… https://t.co/esmOQC6d8M,Wed Aug 29 04:02:08 +0000 2018,0.6486,0.259,0.259,0.259
+CNN,14,"RT @CNNTonight: Andrew Gillum: ""I'm a Democrat, but most importantly I'm a Floridan who wants to build a state that has room for everybody…",Wed Aug 29 03:57:01 +0000 2018,0.5251,0.145,0.145,0.145
+CNN,15,"Rep. Kyrsten Sinema has won the Democratic primary for Senate in Arizona, CNN projects https://t.co/oye5DGuoqg",Wed Aug 29 03:56:12 +0000 2018,0.5719,0.209,0.209,0.209
+CNN,16,"Arizona Gov. Doug Ducey, facing a potentially tough battle for re-election in the fall, has won the GOP primary, CN… https://t.co/pYYfdVIaCJ",Wed Aug 29 03:55:09 +0000 2018,0.1531,0.149,0.149,0.149
+CNN,17,"Lori Alhadeff, a mother who lost her daughter in the Parkland shooting, wins a spot on the school board… https://t.co/ttPphDIaJF",Wed Aug 29 03:46:48 +0000 2018,0.34,0.168,0.168,0.168
+CNN,18,"A day out from their big-ticket debate, a leaked email has turned up the heat -- quite literally -- in the race bet… https://t.co/YT6C0XZKf7",Wed Aug 29 03:46:04 +0000 2018,-0.3182,0.0,0.0,0.0
+CNN,19,"RT @CNNTonight: ""People didn't think we had a chance, but we did."" Tallahassee Mayor Andrew Gillum speaks with @DonLemon after CNN projects…",Wed Aug 29 03:42:19 +0000 2018,0.128,0.07,0.07,0.07
+CNN,20,A tale of two refugee girls | By Angelina Jolie via @CNNOpinion https://t.co/Dz8R0T1RLA https://t.co/L2dw2uTnAp,Wed Aug 29 03:31:05 +0000 2018,0.0,0.0,0.0,0.0
+CNN,21,"This is how Ruth Bader Ginsburg, the oldest sitting Supreme Court Justice, stays in shape. She attributes her long… https://t.co/NfmfnyovVC",Wed Aug 29 06:16:00 +0000 2018,0.7906,0.28,0.28,0.28
+CNN,22,"Gun-related homicides and suicides kill more people than war, according to a study https://t.co/j4VFWP3QZG https://t.co/T1FZO1ZnZo",Wed Aug 29 06:01:02 +0000 2018,-0.8709,0.0,0.0,0.0
+CNN,23,Researchers used a manned submersible to bring back the first images of a deep-sea coral reef off the coast of Sout… https://t.co/Hf8Juz1pkd,Wed Aug 29 05:46:00 +0000 2018,0.0,0.0,0.0,0.0
+CNN,24,RT @CuomoPrimeTime: Dominican Father Boniface Ramsey recounts his 15-year crusade to expose the alleged abuse by former Cardinal Theodore M…,Wed Aug 29 05:31:12 +0000 2018,-0.7003,0.0,0.0,0.0
+CNN,25,A mother was shoved into the path of an oncoming train. Her daughter jumped onto tracks to save her.… https://t.co/H07T6b9jHY,Wed Aug 29 05:31:08 +0000 2018,0.4939,0.151,0.151,0.151
+CNN,26,"Meet the Arab superhero fighting crime and smashing stereotypes. Emara doesn't wear spandex, skintight leather or m… https://t.co/bJ4eASqKKv",Wed Aug 29 05:16:00 +0000 2018,-0.7184,0.0,0.0,0.0
+CNN,27,Bernie-backed progressive Andrew Gillum will face a Trump-styled Republican in Florida's governor's race… https://t.co/Dgs7rroJ91,Wed Aug 29 05:04:36 +0000 2018,0.0,0.0,0.0,0.0
+CNN,28,"Air pollution could be more damaging to our health than previously thought, according to a new study, which found t… https://t.co/sULU7cHvzR",Wed Aug 29 05:01:05 +0000 2018,-0.5563,0.0,0.0,0.0
+CNN,29,"Bugatti's new Divo supercar costs nearly twice as much as the company's current model, the Chiron, but it can't go… https://t.co/twofLhOOp7",Wed Aug 29 04:46:00 +0000 2018,0.0,0.0,0.0,0.0
+CNN,30,"Nearly 2.3 million cases of chlamydia, gonorrhea and syphilis were diagnosed in the United States in 2017, accordin… https://t.co/XnNgoLpemp",Wed Aug 29 04:31:01 +0000 2018,0.4215,0.135,0.135,0.135
+CNN,31,Establishment favorite Martha McSally will defeat two right-wing challengers in Arizona's Republican Senate primary… https://t.co/x07cwhView,Wed Aug 29 04:18:20 +0000 2018,0.1027,0.227,0.227,0.227
+CNN,32,"Korean pop group BTS beats Taylor Swift's record for biggest YouTube debut with the music video for its song ""Idol""… https://t.co/tKl8Zb3m6l",Wed Aug 29 04:16:00 +0000 2018,0.0,0.0,0.0,0.0
+CNN,33,Sofia Sanchez had two wishes for her 11th birthday. The first came true earlier this month when Drake surprised her… https://t.co/esmOQC6d8M,Wed Aug 29 04:02:08 +0000 2018,0.6486,0.259,0.259,0.259
+CNN,34,"RT @CNNTonight: Andrew Gillum: ""I'm a Democrat, but most importantly I'm a Floridan who wants to build a state that has room for everybody…",Wed Aug 29 03:57:01 +0000 2018,0.5251,0.145,0.145,0.145
+CNN,35,"Rep. Kyrsten Sinema has won the Democratic primary for Senate in Arizona, CNN projects https://t.co/oye5DGuoqg",Wed Aug 29 03:56:12 +0000 2018,0.5719,0.209,0.209,0.209
+CNN,36,"Arizona Gov. Doug Ducey, facing a potentially tough battle for re-election in the fall, has won the GOP primary, CN… https://t.co/pYYfdVIaCJ",Wed Aug 29 03:55:09 +0000 2018,0.1531,0.149,0.149,0.149
+CNN,37,"Lori Alhadeff, a mother who lost her daughter in the Parkland shooting, wins a spot on the school board… https://t.co/ttPphDIaJF",Wed Aug 29 03:46:48 +0000 2018,0.34,0.168,0.168,0.168
+CNN,38,"A day out from their big-ticket debate, a leaked email has turned up the heat -- quite literally -- in the race bet… https://t.co/YT6C0XZKf7",Wed Aug 29 03:46:04 +0000 2018,-0.3182,0.0,0.0,0.0
+CNN,39,"RT @CNNTonight: ""People didn't think we had a chance, but we did."" Tallahassee Mayor Andrew Gillum speaks with @DonLemon after CNN projects…",Wed Aug 29 03:42:19 +0000 2018,0.128,0.07,0.07,0.07
+CNN,40,A tale of two refugee girls | By Angelina Jolie via @CNNOpinion https://t.co/Dz8R0T1RLA https://t.co/L2dw2uTnAp,Wed Aug 29 03:31:05 +0000 2018,0.0,0.0,0.0,0.0
+CNN,41,Inside Sen. John McCain's surprise eulogy invitation to former President Barack Obama https://t.co/RZFlHcLLZ2 https://t.co/eKDHGzAWYA,Wed Aug 29 03:16:06 +0000 2018,0.2732,0.139,0.139,0.139
+CNN,42,"A dozen prisoners have died in the custody of Mississippi authorities this month and, with the exception of two dea… https://t.co/JESsgqnx7v",Wed Aug 29 03:01:05 +0000 2018,-0.7845,0.0,0.0,0.0
+CNN,43,The police officer who fatally shot an unarmed black man in Tulsa now teaches a course on how other cops can 'survi… https://t.co/L8vueXQ2B2,Wed Aug 29 02:46:08 +0000 2018,-0.6369,0.0,0.0,0.0
+CNN,44,The owner of a company that builds 3D-printed guns said he has begun selling blueprints of the weapons to elude a c… https://t.co/j28oea6r9M,Wed Aug 29 02:31:05 +0000 2018,-0.4404,0.0,0.0,0.0
+CNN,45,"Facing scrutiny for hush money payments to a porn star and a former Playboy model, Trump pleaded with evangelical l… https://t.co/Agly0f7p9q",Wed Aug 29 02:16:02 +0000 2018,0.0,0.0,0.0,0.0
+CNN,46,"“Today I was a candidate for the highest office in the country I love so much. And tonight, I remain her servant. T… https://t.co/UVPPINI7z9",Wed Aug 29 02:16:00 +0000 2018,0.6369,0.181,0.181,0.181
+CNN,47,"""John taught us how to lose. ... He failed a lot but he never quit."" Sen. Lindsey Graham pays emotional tribute to… https://t.co/4weJvqOQuR",Wed Aug 29 02:03:35 +0000 2018,-0.2732,0.076,0.076,0.076
+CNN,48,"RT @cnnbrk: Tallahassee Mayor Andrew Gillum will win Florida's Democratic governor's race, CNN projects. If he wins, he would be the state'…",Wed Aug 29 01:53:37 +0000 2018,0.8176,0.273,0.273,0.273
+CNN,49,"A 9-year-old died by suicide on Thursday, shortly after coming out as gay and being bullied at school, according to… https://t.co/uVe0GQHwK9",Wed Aug 29 01:49:47 +0000 2018,-0.9217,0.0,0.0,0.0
+CNN,50,RT @CuomoPrimeTime: .@VanJones68: Trump’s warning of possible future violence sounds like “panic on the part of the President trying to sti…,Wed Aug 29 01:43:39 +0000 2018,-0.6124,0.093,0.093,0.093
+CNN,51,RT @AC360: “I’d tell him he was very disrespectful.” American Legion members decry President Trump’s behavior towards the late Sen. John Mc…,Wed Aug 29 01:43:21 +0000 2018,0.0,0.0,0.0,0.0
+CNN,52,"Bernie Sanders-backed progressive Andrew Gillum will win Florida Democratic governor's race, CNN projects… https://t.co/rZ8vtF6LoW",Wed Aug 29 01:42:31 +0000 2018,0.5859,0.226,0.226,0.226
+CNN,53,Slowed new construction and a short supply of existing homes for sale have pushed housing prices so high that buyer… https://t.co/CIlqdLGa2x,Wed Aug 29 01:41:04 +0000 2018,0.0,0.0,0.0,0.0
+CNN,54,RT @CuomoPrimeTime: Former Trump WH Legislative Affairs Director Marc Short calls for greater transparency from tech giants but warn agains…,Wed Aug 29 01:31:27 +0000 2018,0.0387,0.082,0.082,0.082
+CNN,55,"California will no longer require defendants to post bail in order to be released before trial, in a sweeping refor… https://t.co/mv4GIxHzZ6",Wed Aug 29 01:31:06 +0000 2018,-0.296,0.0,0.0,0.0
+CNN,56,"""The hive got overcrowded because it was hot and humid and they just needed a new place to go so they can keep cool… https://t.co/HpuCZ9x2Mw",Wed Aug 29 01:19:51 +0000 2018,0.0,0.0,0.0,0.0
+CNN,57,"More than 40,000 bees swarmed a hot dog stand in Times Square, turning the already-busy area into a hive of activit… https://t.co/034OEV7gMP",Wed Aug 29 01:19:05 +0000 2018,0.0,0.0,0.0,0.0
+CNN,58,President Trump is now turning his focus toward cutting a trade deal with Canada after the United States and Mexico… https://t.co/AHNFtR1f8L,Wed Aug 29 01:10:05 +0000 2018,0.3182,0.126,0.126,0.126
+CNN,59,"RT @AC360: Former campaign manager and family spokesman Rick Davis reflected on Sen. McCain's final moments: “It was a beautiful thing, he…",Wed Aug 29 00:52:54 +0000 2018,0.5994,0.163,0.163,0.163
+CNN,60,A banker who previously worked with Paul Manafort but was never charged related to Manafort's bank fraud schemes re… https://t.co/tzeYTaW57e,Wed Aug 29 00:49:06 +0000 2018,-0.6499,0.078,0.078,0.078
+CNN,61,"This is how Ruth Bader Ginsburg, the oldest sitting Supreme Court Justice, stays in shape. She attributes her long… https://t.co/ONLrCICQN4",Wed Aug 29 00:37:48 +0000 2018,0.7906,0.28,0.28,0.28
+CNN,62,RT @AC360: .@SymoneDSanders says she believes President Trump may be attempting to equate Antifa with the Democratic Party in his violence…,Wed Aug 29 00:35:51 +0000 2018,0.4019,0.119,0.119,0.119
+CNN,63,Inside McCain's surprise eulogy invitation to Obama https://t.co/Ovs2wU6Rc0 https://t.co/0Q5wwlYLe2,Wed Aug 29 00:31:08 +0000 2018,0.2732,0.208,0.208,0.208
+CNN,64,The judge who will oversee Paul Manafort's trial in Washington has warned members of the defense team several times… https://t.co/meSlWa7457,Wed Aug 29 00:21:03 +0000 2018,-0.1531,0.069,0.069,0.069
+CNN,65,"RT @AC360: “Jeff Sessions is now a dead man walking,” says CNN’s @JeffreyToobin. “[T]he Republican Party will never do anything to stop Don…",Wed Aug 29 00:20:52 +0000 2018,-0.5859,0.096,0.096,0.096
+CNN,66,"Rep. Ron DeSantis will win Florida's Republican governor's primary, CNN projects, in yet another win for a Trump-ba… https://t.co/5pJqz1Y3ro",Wed Aug 29 00:14:50 +0000 2018,0.8225,0.322,0.322,0.322
+CNN,67,The former CEO of Barnes &amp; Noble is suing the bookseller over his firing last month https://t.co/9saAEwKexu https://t.co/50mk7FweBe,Wed Aug 29 00:11:04 +0000 2018,-0.128,0.133,0.133,0.133
+CNN,68,RT @OutFrontCNN: Sen. Mark Warner says his former Senate colleague John McCain told him 'to stick at it and get to the truth' in the Russia…,Wed Aug 29 00:04:35 +0000 2018,0.3182,0.084,0.084,0.084
+CNN,69,A tale of two refugee girls | By Angelina Jolie via @CNNOpinion https://t.co/T8IV5Hq92F https://t.co/Kf3mnGf0UO,Wed Aug 29 00:01:05 +0000 2018,0.0,0.0,0.0,0.0
+CNN,70,Former Papa John's chairman John Schnatter says he believes he's being scapegoated for the pizza chain's poor perfo… https://t.co/CzYxf5brI5,Tue Aug 28 23:51:03 +0000 2018,-0.4767,0.0,0.0,0.0
+CNN,71,"RT @OutFrontCNN: ""Never, ever has any president come even close to saying if my side loses there's going to be violence. I think it is irre…",Tue Aug 28 23:47:38 +0000 2018,-0.7506,0.0,0.0,0.0
+CNN,72,"Air pollution could be more damaging to our health than previously thought, according to a new study, which found t… https://t.co/tYL8nukK4A",Tue Aug 28 23:41:01 +0000 2018,-0.5563,0.0,0.0,0.0
+CNN,73,"Supreme Court nominee Brett Kavanaugh will be introduced by Republican Sen. Rob Portman of Ohio, former Secretary o… https://t.co/uOTbCpMwru",Tue Aug 28 23:31:05 +0000 2018,0.0,0.149,0.149,0.149
+CNN,74,"RT @OutFrontCNN: ""One of the lessons I've learned the most from him was the absolutely essential nature of American leadership around the w…",Tue Aug 28 23:27:07 +0000 2018,0.0,0.0,0.0,0.0
+CNN,75,Arizona polls to close on time after Election Day snafu https://t.co/1uWpz1e8qk https://t.co/X40iSR1yQI,Tue Aug 28 23:21:13 +0000 2018,-0.5423,0.0,0.0,0.0
+CNN,76,"Nearly 2.3 million cases of chlamydia, gonorrhea and syphilis were diagnosed in the United States in 2017, accordin… https://t.co/maxaNUMjFK",Tue Aug 28 23:21:05 +0000 2018,0.4215,0.135,0.135,0.135
+CNN,77,Uber is pivoting to e-bikes and scooters for short rides as its business model changes https://t.co/dNd7pCDFJj https://t.co/15LLZcTKrf,Tue Aug 28 23:18:11 +0000 2018,0.0,0.0,0.0,0.0
+CNN,78,"Usually, politics and slime go hand-in-hand. ""Sliming"" a political opponent is well-worn tradition, after all.
+
+But… https://t.co/G3Gwd9uP5W",Tue Aug 28 23:16:23 +0000 2018,0.0,0.0,0.0,0.0
+CNN,79,"RT @OutFrontCNN: ""This is a President that seems like he is lashing out at anyone and I think it's because the walls are closing in,"" says…",Tue Aug 28 23:13:53 +0000 2018,0.3612,0.098,0.098,0.098
+CNN,80,Senate Majority Leader Mitch McConnell cut a deal with Democratic leaders in the upper chamber to clear a slate of… https://t.co/Zn2gj4cf3g,Tue Aug 28 23:11:03 +0000 2018,0.128,0.12,0.12,0.12
+CNN,81,"RT @OutFrontCNN: It's election day in Arizona, Florida, and Oklahoma. Follow for live updates. https://t.co/GxZ8IRdS3v https://t.co/J1Iz5Nt…",Tue Aug 28 23:07:20 +0000 2018,0.0,0.0,0.0,0.0
+CNN,82,Mike Pence's plan to outlast Trump | By Michael D'Antonio and Peter Eisner via @CNNOpinion https://t.co/nFaFZcR7Hv https://t.co/2mRdKYTCX3,Tue Aug 28 23:01:04 +0000 2018,0.0,0.0,0.0,0.0
+CNN,83,Researchers used a manned submersible to bring back the first images of a deep-sea coral reef off the coast of Sout… https://t.co/cb4QFVHJAR,Tue Aug 28 23:01:00 +0000 2018,0.0,0.0,0.0,0.0
+CNN,84,Sofia Sanchez had two wishes for her 11th birthday. The first came true earlier this month when Drake surprised her… https://t.co/UPLxJCXx5r,Tue Aug 28 22:52:07 +0000 2018,0.6486,0.259,0.259,0.259
+CNN,85,GoPro CEO Nick Woodman says the company hasn't been hit by President Trump's tariffs against China yet -- but they… https://t.co/XRwSYMsDU0,Tue Aug 28 22:45:00 +0000 2018,0.0,0.0,0.0,0.0
+CNN,86,A former police officer in the Dallas suburb of Balch Springs was found guilty of murder in the shooting of Jordan… https://t.co/L0TkbxwxUm,Tue Aug 28 22:43:21 +0000 2018,-0.8176,0.0,0.0,0.0
+CNN,87,"RT @CNNSitRoom: ""This President has to be willing to accept the will of the American people when it comes to an election, and stop threaten…",Tue Aug 28 22:38:34 +0000 2018,0.1027,0.094,0.094,0.094
+CNN,88,The owner of a company that builds 3D-printed guns said he has begun selling blueprints of the weapons to elude a c… https://t.co/i8RlYoOzEA,Tue Aug 28 22:35:13 +0000 2018,-0.4404,0.0,0.0,0.0
+CNN,89,RT @CNNSitRoom: Democratic Senator Blumenthal says he’s talked to a number of Republican colleagues and thinks ”there would be holy hell to…,Tue Aug 28 22:30:48 +0000 2018,-0.6486,0.052,0.052,0.052
+CNN,90,"Meet the Arab superhero fighting crime and smashing stereotypes. Emara doesn't wear spandex, skintight leather or m… https://t.co/T2BkzI0arL",Tue Aug 28 22:30:00 +0000 2018,-0.7184,0.0,0.0,0.0
+CNN,91,"Veteran David Carrasco gave his own Vietnam War medallion to the late Sen. John McCain's wife, Cindy McCain, outsid… https://t.co/CwUpC3f6gA",Tue Aug 28 22:28:51 +0000 2018,-0.5994,0.0,0.0,0.0
+CNN,92,"Illinois authorities are investigating allegations of neglect after a fire in Chicago killed 10 children, officials… https://t.co/7cQ4IhdTOK",Tue Aug 28 22:25:07 +0000 2018,-0.872,0.0,0.0,0.0
+CNN,93,"Facing scrutiny for hush money payments to a porn star and a former Playboy model, Trump pleaded with evangelical l… https://t.co/wqs33Je3GO",Tue Aug 28 22:20:05 +0000 2018,0.0,0.0,0.0,0.0
+CNN,94,Senate Republicans are sending decidedly mixed messages about how they feel about the future of Attorney General Je… https://t.co/aZufhL6bgH,Tue Aug 28 22:15:15 +0000 2018,0.0,0.0,0.0,0.0
+CNN,95,"It's election day in Arizona, Florida, and Oklahoma. Follow for live updates. https://t.co/ufORF8aN3n https://t.co/2La3w5ES7x",Tue Aug 28 22:11:48 +0000 2018,0.0,0.0,0.0,0.0
+CNN,96,HBO has quietly dropped erotic late-night programming from its lineup https://t.co/h5A8TbI0d0 https://t.co/xAo7NNNSbL,Tue Aug 28 21:50:07 +0000 2018,0.0,0.0,0.0,0.0
+CNN,97,JPMorgan just made another high-profile artificial intelligence hire https://t.co/QxeypaK99l https://t.co/Fi7Mj3hzSp,Tue Aug 28 21:40:10 +0000 2018,0.4767,0.256,0.256,0.256
+CNN,98,"Without evidence, Trump reiterated claims about Google's search results, saying the company is ""taking advantage of… https://t.co/4TAekVTE8w",Tue Aug 28 21:35:00 +0000 2018,0.25,0.111,0.111,0.111
+CNN,99,Bubble gum-flavored children's Advil is being recalled after customer complaints identified that the dosage cup pro… https://t.co/GzQkiLagWL,Tue Aug 28 21:30:09 +0000 2018,-0.4019,0.0,0.0,0.0
+CNN,100,"Canada looks to join the US-Mexico trade talks, but Prime Minister Justin Trudeau says he will only sign a new deal… https://t.co/f7KWE2EP5i",Tue Aug 28 21:29:22 +0000 2018,0.1531,0.074,0.074,0.074
+FoxNews,1,"""Our government needs tools to pressure North Korea.""
+
+Otto Warmbier's parents are trying to honor his legacy by wo… https://t.co/7AAr7amebQ",Wed Aug 29 06:15:00 +0000 2018,0.25,0.137,0.137,0.137
+FoxNews,2,"Menendez, in fight for political life, loses backing of fellow NJ Democrat https://t.co/PG8hVJIQ0F",Wed Aug 29 06:07:00 +0000 2018,-0.5859,0.069,0.069,0.069
+FoxNews,3,".@newtgingrich: ""If the Democrats win control of the House, it'll be a total mess for two solid years."" #Cavuto https://t.co/cGLoQ3u4NO",Wed Aug 29 06:00:03 +0000 2018,0.4404,0.226,0.226,0.226
+FoxNews,4,"The sun sets behind the mountains on Tuesday in Denver, as smoke filters into the intermountain West with forest fi… https://t.co/vFLYA9ncWi",Wed Aug 29 05:53:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,5,FIFA president Gianni Infantino gave @POTUS a yellow and red card during a meeting at the @WhiteHouse Tuesday https://t.co/VA8Lmcfmrr,Wed Aug 29 05:45:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,6,"'Leave my wife out of it,' Rep. Hunter says about corruption charges: report https://t.co/njeUWMMhLE",Wed Aug 29 05:38:00 +0000 2018,-0.3182,0.0,0.0,0.0
+FoxNews,7,Jim Brown: “This president is accessible and he’s different.” https://t.co/QpLRheFTj8,Wed Aug 29 05:30:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,8,A man watches lightning from a concourse at Kauffman Stadium during a severe storm before a baseball game between t… https://t.co/fX3KKkAVSM,Wed Aug 29 05:23:00 +0000 2018,-0.3818,0.0,0.0,0.0
+FoxNews,9,".@RepDeSantis on @AndrewGillum: ""I'm trying to make Florida even better, he's trying to make Florida Venezuela.""… https://t.co/8TY0IAFrM0",Wed Aug 29 05:15:00 +0000 2018,0.4404,0.153,0.153,0.153
+FoxNews,10,Homeless veteran who helped stranded woman takes legal action against couple: report https://t.co/gHAUFQDyaL,Wed Aug 29 05:07:00 +0000 2018,0.128,0.111,0.111,0.111
+FoxNews,11,"""It'll ultimately be paid for by Mexico."" — @POTUS responded to a question Tuesday about funding a U.S.-Mexico bord… https://t.co/9sslK4P7F4",Wed Aug 29 05:00:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,12,"On #Cavuto, @newtgingrich predicted that President @realDonaldTrump will get reelected because ""the economy, frankl… https://t.co/LylybTIUFB",Wed Aug 29 04:53:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,13,.@LindseyGrahamSC: “I’ve seen no evidence of collusion after two years.” https://t.co/BLwK9GiFFU,Wed Aug 29 04:45:00 +0000 2018,-0.296,0.0,0.0,0.0
+FoxNews,14,"Earthquake east of Los Angeles hits magnitude 4.4, USGS says https://t.co/zMTjSibrsa",Wed Aug 29 04:38:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,15,"After he was born at just 22 weeks and spent 160 days in the hospital, a baby boy “graduated” from the neonatal int… https://t.co/m0EpY8bQY6",Wed Aug 29 04:30:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,16,K-pop band @BTS_twt beats Taylor Swift's YouTube record for most video views in 24 hours with song #IDOL https://t.co/3WYHm6GT5e,Wed Aug 29 04:23:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,17,Jim Brown: “We should never denigrate our flag and our national anthem.” https://t.co/cBKe4jHAAn,Wed Aug 29 04:16:44 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,18,Russia to hold its biggest war games since fall of Soviet Union https://t.co/atP1B7GXnr,Wed Aug 29 04:11:38 +0000 2018,-0.5994,0.0,0.0,0.0
+FoxNews,19,Comedian Pete Davidson shared his thoughts about working with @realDonaldTrump when he hosted “Saturday Night Live”… https://t.co/rTVuIjYFOt,Wed Aug 29 04:08:00 +0000 2018,0.6124,0.25,0.25,0.25
+FoxNews,20,HEARTWARMING: This golden retriever got the surprise of a lifetime when a special soldier returned home from traini… https://t.co/cNmkkYq0N8,Wed Aug 29 04:01:00 +0000 2018,0.824,0.381,0.381,0.381
+FoxNews,21,"""Our government needs tools to pressure North Korea.""
+
+Otto Warmbier's parents are trying to honor his legacy by wo… https://t.co/7AAr7amebQ",Wed Aug 29 06:15:00 +0000 2018,0.25,0.137,0.137,0.137
+FoxNews,22,"Menendez, in fight for political life, loses backing of fellow NJ Democrat https://t.co/PG8hVJIQ0F",Wed Aug 29 06:07:00 +0000 2018,-0.5859,0.069,0.069,0.069
+FoxNews,23,".@newtgingrich: ""If the Democrats win control of the House, it'll be a total mess for two solid years."" #Cavuto https://t.co/cGLoQ3u4NO",Wed Aug 29 06:00:03 +0000 2018,0.4404,0.226,0.226,0.226
+FoxNews,24,"The sun sets behind the mountains on Tuesday in Denver, as smoke filters into the intermountain West with forest fi… https://t.co/vFLYA9ncWi",Wed Aug 29 05:53:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,25,FIFA president Gianni Infantino gave @POTUS a yellow and red card during a meeting at the @WhiteHouse Tuesday https://t.co/VA8Lmcfmrr,Wed Aug 29 05:45:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,26,"'Leave my wife out of it,' Rep. Hunter says about corruption charges: report https://t.co/njeUWMMhLE",Wed Aug 29 05:38:00 +0000 2018,-0.3182,0.0,0.0,0.0
+FoxNews,27,Jim Brown: “This president is accessible and he’s different.” https://t.co/QpLRheFTj8,Wed Aug 29 05:30:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,28,A man watches lightning from a concourse at Kauffman Stadium during a severe storm before a baseball game between t… https://t.co/fX3KKkAVSM,Wed Aug 29 05:23:00 +0000 2018,-0.3818,0.0,0.0,0.0
+FoxNews,29,".@RepDeSantis on @AndrewGillum: ""I'm trying to make Florida even better, he's trying to make Florida Venezuela.""… https://t.co/8TY0IAFrM0",Wed Aug 29 05:15:00 +0000 2018,0.4404,0.153,0.153,0.153
+FoxNews,30,Homeless veteran who helped stranded woman takes legal action against couple: report https://t.co/gHAUFQDyaL,Wed Aug 29 05:07:00 +0000 2018,0.128,0.111,0.111,0.111
+FoxNews,31,"""It'll ultimately be paid for by Mexico."" — @POTUS responded to a question Tuesday about funding a U.S.-Mexico bord… https://t.co/9sslK4P7F4",Wed Aug 29 05:00:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,32,"On #Cavuto, @newtgingrich predicted that President @realDonaldTrump will get reelected because ""the economy, frankl… https://t.co/LylybTIUFB",Wed Aug 29 04:53:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,33,.@LindseyGrahamSC: “I’ve seen no evidence of collusion after two years.” https://t.co/BLwK9GiFFU,Wed Aug 29 04:45:00 +0000 2018,-0.296,0.0,0.0,0.0
+FoxNews,34,"Earthquake east of Los Angeles hits magnitude 4.4, USGS says https://t.co/zMTjSibrsa",Wed Aug 29 04:38:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,35,"After he was born at just 22 weeks and spent 160 days in the hospital, a baby boy “graduated” from the neonatal int… https://t.co/m0EpY8bQY6",Wed Aug 29 04:30:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,36,K-pop band @BTS_twt beats Taylor Swift's YouTube record for most video views in 24 hours with song #IDOL https://t.co/3WYHm6GT5e,Wed Aug 29 04:23:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,37,Jim Brown: “We should never denigrate our flag and our national anthem.” https://t.co/cBKe4jHAAn,Wed Aug 29 04:16:44 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,38,Russia to hold its biggest war games since fall of Soviet Union https://t.co/atP1B7GXnr,Wed Aug 29 04:11:38 +0000 2018,-0.5994,0.0,0.0,0.0
+FoxNews,39,Comedian Pete Davidson shared his thoughts about working with @realDonaldTrump when he hosted “Saturday Night Live”… https://t.co/rTVuIjYFOt,Wed Aug 29 04:08:00 +0000 2018,0.6124,0.25,0.25,0.25
+FoxNews,40,HEARTWARMING: This golden retriever got the surprise of a lifetime when a special soldier returned home from traini… https://t.co/cNmkkYq0N8,Wed Aug 29 04:01:00 +0000 2018,0.824,0.381,0.381,0.381
+FoxNews,41,California to become first state eliminating bail for suspects awaiting trial https://t.co/LvMWfzQRJ5,Wed Aug 29 03:56:39 +0000 2018,-0.34,0.0,0.0,0.0
+FoxNews,42,".@jasoninthehouse on Attorney General Jeff Sessions: ""He's been the most ineffective attorney general we've probabl… https://t.co/VIQDKPA8eZ",Wed Aug 29 03:44:37 +0000 2018,-0.2006,0.0,0.0,0.0
+FoxNews,43,.@RepMcSally makes remarks after it is projected that she will win the Arizona GOP Senate primary. https://t.co/PZ3HIwa4Xz,Wed Aug 29 03:35:23 +0000 2018,0.5859,0.192,0.192,0.192
+FoxNews,44,"JUST IN: Sinema, McSally projected to win Arizona Senate primaries, Ducey keeps reelection hopes alive in governor'… https://t.co/l7bCNE5S7H",Wed Aug 29 03:33:07 +0000 2018,0.8481,0.38,0.38,0.38
+FoxNews,45,"JUST IN: Congresswoman @kyrstensinema will win the Arizona Democratic Senate primary, the Fox News Decision Desk pr… https://t.co/8lUaP0RrFK",Wed Aug 29 03:30:54 +0000 2018,0.5859,0.183,0.183,0.183
+FoxNews,46,"DOJ official Bruce Ohr grilled over Trump dossier, Steele ties https://t.co/OCdo7McRWb https://t.co/slAan5iQJA",Wed Aug 29 03:16:50 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,47,".@RepDeSantis on @AndrewGillum: ""I'm trying to make Florida even better, he's trying to make Florida Venezuela.""… https://t.co/n6Sf369FlX",Wed Aug 29 03:05:00 +0000 2018,0.4404,0.153,0.153,0.153
+FoxNews,48,"Actress @katemara, whose family co-owns the New York @Giants and Pittsburgh @steelers, threw her support behind… https://t.co/Td4efEKjjd",Wed Aug 29 03:00:01 +0000 2018,0.4019,0.144,0.144,0.144
+FoxNews,49,"Dog owner who used pet-sitting service says he found shirtless men, lube in living room https://t.co/NPUjbnFHY7",Wed Aug 29 02:52:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,50,Washington state sees 12th feline mutilated amid fears of a serial cat killer https://t.co/Jw9TE508qY,Wed Aug 29 02:44:00 +0000 2018,-0.7964,0.0,0.0,0.0
+FoxNews,51,"Tulsa businessman, political novice Kevin Stitt wins GOP primary for Oklahoma governor https://t.co/pBObz3ZKda",Wed Aug 29 02:35:12 +0000 2018,0.5719,0.236,0.236,0.236
+FoxNews,52,Mystery as woman in T-shirt and possibly shackles appears on Texas homeowner's doorstep https://t.co/gUqY9zCQDW,Wed Aug 29 02:27:03 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,53,California mom bitten by 'kissing bug' warns others about danger of 'silent killer' parasitic disease https://t.co/hlzRowjUsF,Wed Aug 29 02:24:15 +0000 2018,-0.6597,0.149,0.149,0.149
+FoxNews,54,"Donna Shalala, ex-Clinton Cabinet member, wins Dem primary to replace Ros-Lehtinen https://t.co/Gwl4ZmxVd8",Wed Aug 29 02:16:33 +0000 2018,0.5719,0.252,0.252,0.252
+FoxNews,55,"4 Ohio children abducted by mom, believed to be in danger and heading to Florida, police say. https://t.co/ovXuQIVr14",Wed Aug 29 02:02:00 +0000 2018,-0.7717,0.0,0.0,0.0
+FoxNews,56,Catherine Herridge reports on Justice Department official Bruce Ohr testifying to House lawmakers Tuesday about his… https://t.co/ZIsRIaH2OD,Wed Aug 29 02:00:09 +0000 2018,0.5267,0.175,0.175,0.175
+FoxNews,57,Rep. @RonDeSantisFL wins the Florida GOP gubernatorial primary. https://t.co/sMH3MYFYmb https://t.co/tvxWErCAzi,Wed Aug 29 01:46:29 +0000 2018,0.5719,0.291,0.291,0.291
+FoxNews,58,.@FLGovScott wins the Florida GOP Senate primary. https://t.co/sMH3MYFYmb https://t.co/k9vNy6vhbx,Wed Aug 29 01:42:55 +0000 2018,0.5719,0.316,0.316,0.316
+FoxNews,59,Tallahassee Mayor @AndrewGillum makes remarks after being projected to win the Democratic primary race for Florida… https://t.co/7uvutyxQNV,Wed Aug 29 01:35:48 +0000 2018,0.5859,0.192,0.192,0.192
+FoxNews,60,"BREAKING: Tallahassee Mayor @AndrewGillum wins the Democratic primary race for Florida governor in an upset, Fox Ne… https://t.co/r8G24Dhbya",Wed Aug 29 01:30:59 +0000 2018,0.2732,0.166,0.166,0.166
+FoxNews,61,Sen. @ChrisCoons: 'Significant Body of Work' From Judge Kavanaugh's Past Yet to Be Reviewed. https://t.co/5b222fk997,Wed Aug 29 01:16:02 +0000 2018,0.2023,0.114,0.114,0.114
+FoxNews,62,".@HoustonTexans star @JJWatt's Hurricane Harvey relief helped raise an incredible $41.6 million, a world record for… https://t.co/H1DOJoLjwb",Wed Aug 29 01:04:00 +0000 2018,0.4767,0.171,0.171,0.171
+FoxNews,63,Rep. @RonDeSantisFL makes remarks after being projected to win the Florida GOP gubernatorial primary.… https://t.co/pR2DIfduow,Wed Aug 29 00:52:55 +0000 2018,0.5859,0.213,0.213,0.213
+FoxNews,64,"Viking Cruises bans children, says clients want kid-free vacations https://t.co/36TtTo4pDP",Wed Aug 29 00:43:21 +0000 2018,0.0772,0.126,0.126,0.126
+FoxNews,65,HEARTWARMING: This golden retriever got the surprise of a lifetime when a special soldier returned home from traini… https://t.co/517qXUT20J,Wed Aug 29 00:30:00 +0000 2018,0.824,0.381,0.381,0.381
+FoxNews,66,Florida Agriculture Commissioner @AdamPutnam concedes to Rep. @RonDeSantisFL in the Florida GOP gubernatorial prima… https://t.co/yB9pIJvEw3,Wed Aug 29 00:26:43 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,67,Former soccer star says rat ate his foot while he was sleeping https://t.co/j7YuHWgKqY,Wed Aug 29 00:22:54 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,68,Mom punches homeless woman to stop alleged kidnapping of daughter: records https://t.co/kTA7By9E9g,Wed Aug 29 00:14:14 +0000 2018,-0.296,0.0,0.0,0.0
+FoxNews,69,"BREAKING: Trump-backed Florida Rep. DeSantis wins GOP primary race for Florida governor, Fox News projects. https://t.co/1Tn4dpNToH",Wed Aug 29 00:03:50 +0000 2018,0.5719,0.198,0.198,0.198
+FoxNews,70,Missouri becomes first state to issue law protecting citizens from accidentally buying fake meat. https://t.co/qtM6tGsgLm,Tue Aug 28 23:58:35 +0000 2018,-0.6705,0.0,0.0,0.0
+FoxNews,71,"MS-13 gang member arrested after he re-entered US illegally, Border Patrol says. https://t.co/JfudMBr3Hp",Tue Aug 28 23:44:42 +0000 2018,-0.4767,0.0,0.0,0.0
+FoxNews,72,".@MZHemingway on NC redistricting ruling: ""It throws the entire state into chaos and it disenfranchises an entire s… https://t.co/MclIbutDdK",Tue Aug 28 23:38:00 +0000 2018,-0.5719,0.0,0.0,0.0
+FoxNews,73,"Brett Kavanaugh backed by Bob Bennett, Bill Clinton's Paula Jones-era lawyer. (via @nicoledarrah) https://t.co/ifUt1PuDVh",Tue Aug 28 23:34:20 +0000 2018,0.0258,0.078,0.078,0.078
+FoxNews,74,Toddler's death after leaving immigration facility leads to $40 million legal claim. https://t.co/H2dXw2vJuI,Tue Aug 28 23:28:45 +0000 2018,-0.5267,0.091,0.091,0.091
+FoxNews,75,.@USCG and @USNavy bomb technicians are working to retrieve what looks like an unexploded mine that was spotted flo… https://t.co/9nxUVCEhu3,Tue Aug 28 23:20:50 +0000 2018,-0.1779,0.105,0.105,0.105
+FoxNews,76,Google CEO slammed by lawmakers for declining to testify at Senate hearing. https://t.co/TDjJfdQd8r,Tue Aug 28 23:19:03 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,77,"Sen. @ChrisCoons on calls for postponement of Kavanaugh proceedings: ""At the end of the day what matters here is, a… https://t.co/3Q9ihRRuFs",Tue Aug 28 23:11:53 +0000 2018,0.0258,0.052,0.052,0.052
+FoxNews,78,".@POTUS honors anniversary of MLK 'I Have a Dream' speech touting his policies, hope for America https://t.co/xPX2JgNWF3",Tue Aug 28 22:56:52 +0000 2018,0.7579,0.374,0.374,0.374
+FoxNews,79,"Secretary Mattis: ""We took the step to suspend several of the largest exercises as a good-faith measure coming out… https://t.co/5VdOHKTBCq",Tue Aug 28 22:49:20 +0000 2018,-0.3182,0.0,0.0,0.0
+FoxNews,80,".@SenatorBerger: ""I think the fairest way to do it is to let the people elect the legislators and let the legislato… https://t.co/KOlrveb3lO",Tue Aug 28 22:37:38 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,81,Phil Keating reports on the tight gubernatorial race in Florida. #SpecialReport  https://t.co/vRKSDUGh21 https://t.co/07aiV9PzT3,Tue Aug 28 22:26:59 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,82,".@pdoocy reports on today's Arizona @GOP Senate primary, including problems with voting machines. #SpecialReport… https://t.co/SS3reyYSwW",Tue Aug 28 22:20:42 +0000 2018,-0.4019,0.0,0.0,0.0
+FoxNews,83,Parents of baby misdiagnosed with terminal brain condition in utero left fate 'in God's hands'  https://t.co/auuUttgZpU,Tue Aug 28 22:13:34 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,84,"Florida Senate race between Scott, Nelson expected to be competitive and costly. https://t.co/z1qUScfXfV",Tue Aug 28 22:03:25 +0000 2018,0.0772,0.121,0.121,0.121
+FoxNews,85,Pope Francis facing calls to resign; sexual abuse scandal exposes rifts in the Vatican. https://t.co/AAQvL8xpIE,Tue Aug 28 21:55:00 +0000 2018,-0.875,0.0,0.0,0.0
+FoxNews,86,Texas ex-cop Roy Oliver convicted of murdering unarmed teen Jordan Edwards. https://t.co/68b9xg76dM,Tue Aug 28 21:49:00 +0000 2018,-0.6486,0.0,0.0,0.0
+FoxNews,87,California to become first state eliminating bail for suspects awaiting trial. https://t.co/BNqyCuUQU6,Tue Aug 28 21:43:00 +0000 2018,-0.34,0.0,0.0,0.0
+FoxNews,88,"Trump factor looms large in the Florida gubernatorial primary.
+https://t.co/mIB0pTwNlf",Tue Aug 28 21:35:51 +0000 2018,-0.1531,0.0,0.0,0.0
+FoxNews,89,WATCH: Trump 'Red Cards' the Media at White House FIFA Event.  https://t.co/uOIuI6kz7C,Tue Aug 28 21:30:13 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,90,Illinois community wants children's restaurant closed after video of fight goes viral. https://t.co/dMGwxxgQuY,Tue Aug 28 21:23:38 +0000 2018,-0.3818,0.0,0.0,0.0
+FoxNews,91,"STDs hit all-time highs in US for fourth straight year, @CDCgov reports. https://t.co/pjFwidIX6Q",Tue Aug 28 21:17:00 +0000 2018,0.2263,0.137,0.137,0.137
+FoxNews,92,"Texas man stops woman, 94, driving wrong way down highway. https://t.co/X2J9arVl0z",Tue Aug 28 21:13:18 +0000 2018,-0.5719,0.0,0.0,0.0
+FoxNews,93,Arizona election officials work to fix problems with voting machines on primary day. https://t.co/QMoJFL3gn8,Tue Aug 28 21:02:58 +0000 2018,-0.4019,0.0,0.0,0.0
+FoxNews,94,".@newtgingrich: ""If the Democrats win control of the House, it'll be a total mess for two solid years."" #Cavuto https://t.co/ojAg5wvCqN",Tue Aug 28 20:56:49 +0000 2018,0.4404,0.226,0.226,0.226
+FoxNews,95,".@newtgingrich: ""The left in this country is now in a position where there's not much negotiation. Either they're g… https://t.co/PJj0t5LdBY",Tue Aug 28 20:45:00 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,96,".@senrobportman: ""I think this [trade] agreement with Mexico is a step in the right direction."" #Cavuto https://t.co/s3SX4So20Q",Tue Aug 28 20:42:39 +0000 2018,0.4939,0.176,0.176,0.176
+FoxNews,97,"Cynthia Nixon's team cites sexism over room temperature ahead of Cuomo debate, according to a report. https://t.co/mOUFoia1lo",Tue Aug 28 20:27:42 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,98,Times Square street shut down after bees swarm hot dog stand. https://t.co/p1T6XiKZ2K,Tue Aug 28 20:21:41 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,99,RT @FoxBusiness: AT THE CLOSE: The Nasdaq Composite ends at a new record high for the third consecutive trading day. https://t.co/TFdo1UXGR…,Tue Aug 28 20:18:53 +0000 2018,0.0,0.0,0.0,0.0
+FoxNews,100,"Puerto Rico governor raises Hurricane Maria death toll from 64 to 2,975. https://t.co/uUadh2nfce",Tue Aug 28 20:10:29 +0000 2018,-0.5994,0.0,0.0,0.0
+nytimes,1,"Comedians and more reflect on Louis C.K.'s re-emergence 9 months after admitting to sexual misconduct. ""I’m still o… https://t.co/84SUndkKS6",Wed Aug 29 06:15:07 +0000 2018,0.296,0.115,0.115,0.115
+nytimes,2,"“Today, California reforms its bail system so that rich and poor alike are treated fairly,” said Gov. Jerry Brown https://t.co/i9nFLugHff",Wed Aug 29 06:00:11 +0000 2018,0.197,0.155,0.155,0.155
+nytimes,3,"“Most people with these STDs do not know they are infected”: New cases of chlamydia, gonorrhea and syphilis have re… https://t.co/rmY5Gw989k",Wed Aug 29 05:45:04 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,4,"For the second time in a week, bags containing what appear to be human remains have been found around a park in the… https://t.co/O5Jp74yCJa",Wed Aug 29 05:30:06 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,5,"RT @NYTNational: Harrison Fowler went to the Stanford counseling center his freshman year because “I wanted some help for once."" Instead, h…",Wed Aug 29 05:15:09 +0000 2018,0.4019,0.114,0.114,0.114
+nytimes,6,"Donna Shalala won her primary in Florida. Before her victory, the Clinton administration veteran told The Times: ""I… https://t.co/CeUpVM4tav",Wed Aug 29 05:02:06 +0000 2018,0.5719,0.171,0.171,0.171
+nytimes,7,"In Opinion
+
+Michelle Cottle, a member of the editorial board, writes, Joe Arpaio ""has a long and storied history of… https://t.co/eQ8twByVCj",Wed Aug 29 04:47:06 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,8,"Lori Alhadeff, whose 14-year-old daughter, Alyssa, died in the mass shooting at Marjory Stoneman Douglas High Schoo… https://t.co/nxbtmKmD5p",Wed Aug 29 04:32:02 +0000 2018,-0.5574,0.0,0.0,0.0
+nytimes,9,Andrew Gillum achieved a stunning come-from-behind win over 4 wealthy Democratic challengers whose personal fortune… https://t.co/sjDxeubwUW,Wed Aug 29 04:17:03 +0000 2018,0.8519,0.507,0.507,0.507
+nytimes,10,Arizona primary election live results https://t.co/QXT9GSvAUk,Wed Aug 29 04:03:04 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,11,"Martha McSally is Arizona’s GOP Senate pick. She beat Joe Arpaio, an ex-sheriff, and Kelli Ward, who critics dismis… https://t.co/amLjrbtRfN",Wed Aug 29 03:56:40 +0000 2018,-0.296,0.0,0.0,0.0
+nytimes,12,"France's environment minister quits in frustration: “The planet is becoming a sauna, our natural resources are runn… https://t.co/LtJqgYx4qE",Wed Aug 29 03:47:02 +0000 2018,-0.1531,0.121,0.121,0.121
+nytimes,13,"Missouri has banned producers of plant-based proteins from calling their products meat. 4 organizations have sued,… https://t.co/q55hnEJqim",Wed Aug 29 03:32:04 +0000 2018,-0.4588,0.0,0.0,0.0
+nytimes,14,First election results are coming in from Arizona. Follow the vote here. https://t.co/YNzZfPw88K,Wed Aug 29 03:22:21 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,15,RT @nytopinion: Donald Trump will be restrained only if his party loses the House or the Senate. That’s what is at stake in the midterm ele…,Wed Aug 29 03:17:06 +0000 2018,0.1027,0.093,0.093,0.093
+nytimes,16,An audiotape of President Trump's remarks was provided to The New York Times by someone who attended the event. Her… https://t.co/dNzVmwK9Ht,Wed Aug 29 03:03:04 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,17,A burglar broke into a Manhattan penthouse and made off with a briefcase and an iPad belonging to a banker who once… https://t.co/eKqPGfQ3Az,Wed Aug 29 02:51:06 +0000 2018,-0.4215,0.0,0.0,0.0
+nytimes,18,RT @nytimesworld: The journalist provided the editing. The archbishop provided the outrage. The result was a letter that has shaken the Cat…,Wed Aug 29 02:41:00 +0000 2018,-0.5574,0.0,0.0,0.0
+nytimes,19,California passed a bill mandating that 100% of its electricity come from carbon-free sources by 2045. The governor… https://t.co/Hp7EJcjArH,Wed Aug 29 02:31:05 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,20,RT @tylerpager: Social media lit up after @ShaneGoldmacher's story on Cynthia Nixon's debate hall temperature request. The debate continues…,Wed Aug 29 02:17:02 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,21,"Comedians and more reflect on Louis C.K.'s re-emergence 9 months after admitting to sexual misconduct. ""I’m still o… https://t.co/84SUndkKS6",Wed Aug 29 06:15:07 +0000 2018,0.296,0.115,0.115,0.115
+nytimes,22,"“Today, California reforms its bail system so that rich and poor alike are treated fairly,” said Gov. Jerry Brown https://t.co/i9nFLugHff",Wed Aug 29 06:00:11 +0000 2018,0.197,0.155,0.155,0.155
+nytimes,23,"“Most people with these STDs do not know they are infected”: New cases of chlamydia, gonorrhea and syphilis have re… https://t.co/rmY5Gw989k",Wed Aug 29 05:45:04 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,24,"For the second time in a week, bags containing what appear to be human remains have been found around a park in the… https://t.co/O5Jp74yCJa",Wed Aug 29 05:30:06 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,25,"RT @NYTNational: Harrison Fowler went to the Stanford counseling center his freshman year because “I wanted some help for once."" Instead, h…",Wed Aug 29 05:15:09 +0000 2018,0.4019,0.114,0.114,0.114
+nytimes,26,"Donna Shalala won her primary in Florida. Before her victory, the Clinton administration veteran told The Times: ""I… https://t.co/CeUpVM4tav",Wed Aug 29 05:02:06 +0000 2018,0.5719,0.171,0.171,0.171
+nytimes,27,"In Opinion
+
+Michelle Cottle, a member of the editorial board, writes, Joe Arpaio ""has a long and storied history of… https://t.co/eQ8twByVCj",Wed Aug 29 04:47:06 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,28,"Lori Alhadeff, whose 14-year-old daughter, Alyssa, died in the mass shooting at Marjory Stoneman Douglas High Schoo… https://t.co/nxbtmKmD5p",Wed Aug 29 04:32:02 +0000 2018,-0.5574,0.0,0.0,0.0
+nytimes,29,Andrew Gillum achieved a stunning come-from-behind win over 4 wealthy Democratic challengers whose personal fortune… https://t.co/sjDxeubwUW,Wed Aug 29 04:17:03 +0000 2018,0.8519,0.507,0.507,0.507
+nytimes,30,Arizona primary election live results https://t.co/QXT9GSvAUk,Wed Aug 29 04:03:04 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,31,"Martha McSally is Arizona’s GOP Senate pick. She beat Joe Arpaio, an ex-sheriff, and Kelli Ward, who critics dismis… https://t.co/amLjrbtRfN",Wed Aug 29 03:56:40 +0000 2018,-0.296,0.0,0.0,0.0
+nytimes,32,"France's environment minister quits in frustration: “The planet is becoming a sauna, our natural resources are runn… https://t.co/LtJqgYx4qE",Wed Aug 29 03:47:02 +0000 2018,-0.1531,0.121,0.121,0.121
+nytimes,33,"Missouri has banned producers of plant-based proteins from calling their products meat. 4 organizations have sued,… https://t.co/q55hnEJqim",Wed Aug 29 03:32:04 +0000 2018,-0.4588,0.0,0.0,0.0
+nytimes,34,First election results are coming in from Arizona. Follow the vote here. https://t.co/YNzZfPw88K,Wed Aug 29 03:22:21 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,35,RT @nytopinion: Donald Trump will be restrained only if his party loses the House or the Senate. That’s what is at stake in the midterm ele…,Wed Aug 29 03:17:06 +0000 2018,0.1027,0.093,0.093,0.093
+nytimes,36,An audiotape of President Trump's remarks was provided to The New York Times by someone who attended the event. Her… https://t.co/dNzVmwK9Ht,Wed Aug 29 03:03:04 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,37,A burglar broke into a Manhattan penthouse and made off with a briefcase and an iPad belonging to a banker who once… https://t.co/eKqPGfQ3Az,Wed Aug 29 02:51:06 +0000 2018,-0.4215,0.0,0.0,0.0
+nytimes,38,RT @nytimesworld: The journalist provided the editing. The archbishop provided the outrage. The result was a letter that has shaken the Cat…,Wed Aug 29 02:41:00 +0000 2018,-0.5574,0.0,0.0,0.0
+nytimes,39,California passed a bill mandating that 100% of its electricity come from carbon-free sources by 2045. The governor… https://t.co/Hp7EJcjArH,Wed Aug 29 02:31:05 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,40,RT @tylerpager: Social media lit up after @ShaneGoldmacher's story on Cynthia Nixon's debate hall temperature request. The debate continues…,Wed Aug 29 02:17:02 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,41,A long-awaited analysis of Hurricane Maria’s deadly sweep through Puerto Rico prompted the government to sharply in… https://t.co/M4SwBnSNJJ,Wed Aug 29 02:02:03 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,42,Evening Briefing: Here's what you need to know at the end of the day https://t.co/d4ox3hHna5,Wed Aug 29 01:51:05 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,43,"RT @jmartNYT: NEW: Fla was already the most consequential swing state.
+
+But DeSantis v Gillum sets up a titanic showdown between a pair of…",Wed Aug 29 01:42:06 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,44,See full election results and maps from the Florida primaries https://t.co/FMXJdLfGgu,Wed Aug 29 01:33:00 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,45,"Florida's governor race is set: Andrew Gillum, who would be the state’s first black governor, will face President T… https://t.co/QJdjrn57YR",Wed Aug 29 01:21:08 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,46,RT @julieturkewitz: A little boy killed himself not far from my home. I spent this morning with his mom.  https://t.co/WbgtuYVdBb,Wed Aug 29 01:17:05 +0000 2018,-0.6395,0.0,0.0,0.0
+nytimes,47,"Florida primary election live results
+https://t.co/uExamQcalZ",Wed Aug 29 01:02:07 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,48,"RT @sheeraf: Got to work with @kateconger on this timely scoop. A group of Facebook employees have started an internal group, arguing that…",Wed Aug 29 00:51:50 +0000 2018,-0.34,0.065,0.065,0.065
+nytimes,49,Federal prosecutors and the SEC might have an easier time proving that Rep. Chris Collins committed insider trading… https://t.co/L2SZUfNu7b,Wed Aug 29 00:47:01 +0000 2018,0.5994,0.224,0.224,0.224
+nytimes,50,"RT @SarahMaslinNir: It's August, do you know where your city is? https://t.co/GSjQjLKifZ https://t.co/a8vL2Or8Nm",Wed Aug 29 00:32:02 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,51,Oklahoma primary runoff election live results https://t.co/PlS0SHWWab,Wed Aug 29 00:22:05 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,52,"Ron DeSantis, a once-little known conservative congressman, vaulted to victory in the Florida governor’s primary on… https://t.co/5gbb2oSxLl",Wed Aug 29 00:11:02 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,53,"Florida primary election live results
+https://t.co/vZKTxiT9he",Wed Aug 29 00:02:04 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,54,“She had a smile on her face. She looked at peace.” Long lines of fans remember Aretha Franklin at a public viewing… https://t.co/GWSSFzwIx5,Tue Aug 28 23:51:02 +0000 2018,0.3612,0.111,0.111,0.111
+nytimes,55,"RT @joshbarone: Three male principal dancers are out at New York City Ballet: 
+- Chase Finlay resigned
+- Zachary Catazaro and Amar Ramasar…",Tue Aug 28 23:41:02 +0000 2018,-0.25,0.0,0.0,0.0
+nytimes,56,Peter Polansky may be tennis’s luckiest loser. The Canadian player lost his way into the main draw of all of the Gr… https://t.co/ScUpCNy0sl,Tue Aug 28 23:32:06 +0000 2018,-0.2023,0.132,0.132,0.132
+nytimes,57,"RT @shearm: Also, @realDonaldTrump noted that Pastor Jeffress said Trump is not ""the perfect human being, but he’s the greatest leader for…",Tue Aug 28 23:17:47 +0000 2018,0.7004,0.209,0.209,0.209
+nytimes,58,RT @shearm: UPDATED SCOOP: I’ve added a bit more to my story about @realDonaldTrump remarks to evangelicals after getting more audio. POTUS…,Tue Aug 28 23:17:04 +0000 2018,0.3254,0.104,0.104,0.104
+nytimes,59,First election results are coming in from Florida. Follow the vote here. https://t.co/7RamiEZNDR,Tue Aug 28 23:12:13 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,60,Evening Briefing: Here's what you need to know at the end of the day https://t.co/FeQdvkHIMy,Tue Aug 28 23:02:08 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,61,An ex-CIA officer running for Congress in Virginia accused a GOP super PAC of leaking her security clearance papers… https://t.co/28boJRpMTa,Tue Aug 28 22:47:02 +0000 2018,0.6249,0.257,0.257,0.257
+nytimes,62,RT @tackettdc: A former CIA officer turned House candidate in Virginia says that a Republican-aligned Super Pac improperly disclosed her se…,Tue Aug 28 22:31:06 +0000 2018,0.5994,0.178,0.178,0.178
+nytimes,63,Too many bees (and puns) to count at a Times Square hot dog stand https://t.co/blTQ0iuoi9,Tue Aug 28 22:17:05 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,64,A white former police officer in Texas was found guilty of murder after fatally shooting 15-year-old Jordan Edwards… https://t.co/kGBctvVZ8Z,Tue Aug 28 22:00:11 +0000 2018,-0.9136,0.0,0.0,0.0
+nytimes,65,An audiotape of President Trump's remarks was provided to The New York Times by someone who attended the event. Her… https://t.co/aiyIt5m9mV,Tue Aug 28 21:45:01 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,66,"RT @cliffordlevy: @NYTMetro @palafo “In the bees’ brief brush with fame, they attracted hundreds of onlookers and inspired some embarrassin…",Tue Aug 28 21:32:04 +0000 2018,0.836,0.344,0.344,0.344
+nytimes,67,What occurs during the life of a plant? Do telomeres play a role in longevity? https://t.co/eXGQGmLLh8,Tue Aug 28 21:17:06 +0000 2018,0.4137,0.175,0.175,0.175
+nytimes,68,This Greek-style broiled shrimp recipe is ready in just 10 minutes https://t.co/ki2ksaU0Oe https://t.co/9NRxLEPyir,Tue Aug 28 21:00:25 +0000 2018,0.3612,0.172,0.172,0.172
+nytimes,69,"RT @juliehdavis: ""You’re one election away from losing everything you’ve got,” Trump told evangelical leaders last night at the White House…",Tue Aug 28 20:45:08 +0000 2018,-0.3818,0.0,0.0,0.0
+nytimes,70,"In remarks to evangelical ministers, President Trump spoke about religious liberty, abortion and youth unemployment… https://t.co/eg16hwGq8Q",Tue Aug 28 20:35:39 +0000 2018,0.5267,0.185,0.185,0.185
+nytimes,71,Correction: A previous version of this tweet included a typo. The tweet pictured below has since been deleted. https://t.co/azsF7Lfaew,Tue Aug 28 20:27:48 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,72,A books dealer and a library archivist have been accused of stealing about 300 rare books and other artifacts — inc… https://t.co/M9EMmQwipn,Tue Aug 28 20:18:43 +0000 2018,-0.7096,0.0,0.0,0.0
+nytimes,73,RT @TimHerrera: We're all afraid to talk about money. Here's how to break the taboo https://t.co/5hcf8aA70H by @thewildwong,Tue Aug 28 20:15:05 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,74,"France's environment minister resigned during a live radio interview, saying the government was not doing enough to… https://t.co/HtnUX4Cp1o",Tue Aug 28 20:00:14 +0000 2018,-0.25,0.0,0.0,0.0
+nytimes,75,"“As a Democrat in Arizona, I voted for McCain as senator because I felt he was a leader for all.” Democratic reader… https://t.co/638u9MCxU9",Tue Aug 28 19:45:05 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,76,"52 Places Traveler: A pilgrimage to Ypres, a small city in Belgium where the remembrance of World War I is ritualiz… https://t.co/DtbOAnPdZn",Tue Aug 28 19:30:05 +0000 2018,-0.5994,0.0,0.0,0.0
+nytimes,77,"Nearly 3,000 more deaths than expected occurred in the months after Hurricane Maria, a new report says https://t.co/f9rgnZT9Tj",Tue Aug 28 19:15:01 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,78,"RT @thunderwooddd: Today's the day! More than 20,000 people applied to work with me on The Edit, a @nytimes newsletter for college students…",Tue Aug 28 19:07:05 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,79,"Over the years, Ethan Hawke somehow worn his critics down with his earnestness and his dedication and his sincerity… https://t.co/fMFjE1rMZ1",Tue Aug 28 19:00:08 +0000 2018,-0.5267,0.0,0.0,0.0
+nytimes,80,RT @NYTmag: Bees love protein patties. https://t.co/RcSjKfDQ0k https://t.co/TzxcHxonkF,Tue Aug 28 18:55:28 +0000 2018,0.6369,0.375,0.375,0.375
+nytimes,81,"“The reason Elon seems to attract drama is that he is so transparent, so open, in a way that can come back to bite… https://t.co/8O6BlhFGCy",Tue Aug 28 18:45:05 +0000 2018,0.3612,0.098,0.098,0.098
+nytimes,82,From cocktail hideways to a taste of West Africa: Here are 15 fall New York City restaurant openings you should kno… https://t.co/L4EmLPJb3K,Tue Aug 28 18:30:06 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,83,RT @tmagazine: How the common weed has grown on florists (and chefs) https://t.co/E36G3I26pW https://t.co/tssJmLiE4D,Tue Aug 28 18:25:06 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,84,"""We were two journalists with four cameras, a microphone, a tripod and notebooks trying to be unobtrusive amid the… https://t.co/t9v50qS1c0",Tue Aug 28 18:22:58 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,85,Canada's foreign minister rushed to Washington as top trade officials reiterated that the U.S. is prepared to leave… https://t.co/Tu9USBNbGn,Tue Aug 28 18:15:07 +0000 2018,0.4019,0.179,0.179,0.179
+nytimes,86,Oklahoma primary runoff election results. Follow along here. https://t.co/0fkYghQPMh,Tue Aug 28 18:04:04 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,87,Arizona primary election results. Follow along here. https://t.co/xRVhugVtxE,Tue Aug 28 18:02:03 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,88,Florida primary election results. Follow along here. https://t.co/FxaswRkfwi,Tue Aug 28 18:00:08 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,89,"RT @adeelnyt: Emmett Till, 14, entered a white-owned store in Money, Miss. for less than one minute. It cost him his life 63 years ago toda…",Tue Aug 28 17:30:08 +0000 2018,-0.1531,0.0,0.0,0.0
+nytimes,90,"The president of the French Tennis Federation said Serena Williams' catsuit ""didn't respect the game."" But that rai… https://t.co/OByhj6OrgN",Tue Aug 28 17:20:06 +0000 2018,-0.3724,0.0,0.0,0.0
+nytimes,91,RT @ShaneGoldmacher: Some context on this: Cuomo keeps his offices icy cool. The NYT first wrote about it (hey @Liz_A_Harris: https://t.co/…,Tue Aug 28 17:10:09 +0000 2018,0.3182,0.103,0.103,0.103
+nytimes,92,Our Moscow correspondent examines how the Kremlin and its propaganda machine cast John McCain as the central protag… https://t.co/bW4ZpPWlb0,Tue Aug 28 17:00:06 +0000 2018,-0.25,0.0,0.0,0.0
+nytimes,93,"In Opinion
+
+Jack Shenker writes, ""Since the Brexit referendum, we’ve seen the emergence of a host of abstract nouns… https://t.co/SO2I55ALq5",Tue Aug 28 16:45:04 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,94,"RT @nytimesarts: Earlier this year, Abby Schachner — one of five women who came forward to detail Louis C.K.'s inappropriate behavior — spo…",Tue Aug 28 16:40:07 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,95,"RT @NYTmag: ""Serena’s excellence comes with the ability to imagine herself achieving a new kind of history for all of us."" https://t.co/9dr…",Tue Aug 28 16:30:09 +0000 2018,0.7506,0.252,0.252,0.252
+nytimes,96,You know that study that said no amount of alcohol is safe to drink? It's more complicated than you think. https://t.co/87fPUJmOW0,Tue Aug 28 16:15:10 +0000 2018,0.1779,0.12,0.12,0.12
+nytimes,97,Andrew Cuomo and Cynthia Nixon are set to have their first and only debate on Wednesday. But before they even take… https://t.co/XWwD2vVRID,Tue Aug 28 16:00:13 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,98,Day 2 of the U.S. Open has started. Here's what to watch. https://t.co/DGwnJ7vHT0,Tue Aug 28 15:52:01 +0000 2018,0.0,0.0,0.0,0.0
+nytimes,99,"A group of students is suing Stanford, alleging that after reporting suicidal thoughts, they were required to withd… https://t.co/MmGMhOz9pK",Tue Aug 28 15:45:10 +0000 2018,-0.765,0.0,0.0,0.0
+nytimes,100,Cultural treasures and art — including Neil Armstrong's spacesuit — are slowly disintegrating as the plastic that c… https://t.co/lcBCIlktQ9,Tue Aug 28 15:30:08 +0000 2018,0.4215,0.149,0.149,0.149
